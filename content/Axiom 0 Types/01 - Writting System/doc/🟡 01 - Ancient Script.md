@@ -1,0 +1,36 @@
+The first and the most original form of the Astralica Letters, nowadays used for Caligraphy and art.
+
+|                                                             | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/110.png\|50]]<br>lab | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/130.png\|50]]<br>den  | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/140.png\|50]]<br>avl / avlP | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/150.png\|50]]<br>avl | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/160.png\|50]]<br>vel / glt | others                                           |
+| ----------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------ |
+| ![[x-01-smooth.png\|50]]<br>smooth                          | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/111-m.png\|50]]m     |                                                   |                                                         | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/151-n.png\|50]]n     |                                                        | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/201-r.png\|50]]ɻ / ɾ |
+| ^                                                           | ^                                                | ^                                                 | ^                                                       | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/152-l.png\|50]]l     | ^                                                      | ^                                                |
+| ![[x-02-plossive.png\|50]]<br>plossive<br>*(no wind)*       | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/112-b.png\|50]]b     | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/131-s.png\|50]]s      | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/141-x.png\|50]]ʃ            | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/153-d.png\|50]]d     | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/161-ng.png\|50]]ŋ          |                                                  |
+| ^                                                           | ^                                                | ^                                                 | ^                                                       | ^                                                | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/162-g.png\|50]]g           | ^                                                |
+| ![[x-03-aspirated.png\|50]]<br>aspirated<br>*(wind pulse)*  | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/113-p.png\|50]]p     | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/133-c.png\|50]]$ts^h$ | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/142-q.png\|50]]tʃ           | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/154-t.png\|50]]t     | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/163-k.png\|50]]k           |                                                  |
+| ![[x-04-constantWind.png\|50]]<br>blow<br>*(constant wind)* | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/121-f.png\|50]]f     |                                                   |                                                         |                                                  | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/164-h.png\|50]]h           |                                                  |
+| ![[x-05-voiced.png\|50]]<br>voiced<br>*(vibrate)*           | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/122-v.png\|50]]v     | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/134-z.png\|50]]z      | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/143-j.png\|50]]dʒ           |                                                  |                                                        |                                                  |
+
+>[!warning]
+>during the early days of development, the script is designed with 2 parameters in mind : Position, and Strength. This will not fit in the IPA chart perfectly
+
+>[!hint] teeth and jaw
+> those consonants using the teeth are focused on a SINGLE point at the front, so the radical has ONE hook
+> those consonants using the jaw are focused on TWO sides of the jaw, so the radical has TWO hook
+
+
+| consonant ?                                  | original state                               | morph 1                                        | morph 2                                        |
+| -------------------------------------------- | -------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+|                                              | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/011-a.png\|50]]a | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/012-ae.png\|50]]æ  |                                                |
+|                                              | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/021-e.png\|50]]ə |                                                |                                                |
+| ![[Axiom 0 Types/01 - Writting System/img/01_Anc/023-y.png\|50]]j | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/022-i.png\|50]]i | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/024-ei.png\|50]]ɪ  | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/025-eih.png\|50]]ø |
+|                                              | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/031-o.png\|50]]o |                                                |                                                |
+| ![[Axiom 0 Types/01 - Writting System/img/01_Anc/033-w.png\|50]]w | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/032-u.png\|50]]u | ![[Axiom 0 Types/01 - Writting System/img/01_Anc/034-uoo.png\|50]]ü |                                                |
+
+Astralica Vowels started with /a/, /ə/, /i/, /o/, /u/
+by "morphing"(starting with a vowel and change one part of the mouth),
+we are able to end up with /æ/ and /ü/
+
+every time when a "morph" is done, the symbol will alter a little bit
+- we start with /a/ and push our tongue forward, we will get /æ/
+- we start with /u/ and push our tongue forward, we will get /ü/
+- for /i/, it is quite vague at this phase

@@ -1,0 +1,42 @@
+
+| o----o     |
+| ---------- |
+| anra       |
+| anja       |
+| anta       |
+| dæntixa    |
+| fara       |
+| Hala       |
+| Haximatæ   |
+| Hæntorana  |
+| Hikira     |
+| Hiyari     |
+| Hiyakari   |
+| Hoŋkufstæn |
+| Hostunatæn |
+| iwa        |
+| Jaken      |
+| Jakentag   |
+| kasa       |
+| Kiowamada  |
+| Koha       |
+| Koru       |
+| Krufdæd    |
+| nara       |
+| nata       |
+| nixi       |
+| oki        |
+| Pæstan     |
+| qisu       |
+| resa       |
+| Sarafæsta  |
+| Saxiri     |
+| Takonaki   |
+| Tawa       |
+| tælomoya   |
+| vardart    |
+| Kiyæra     |
+| nioga      |
+| fiara      |
+
+æŋ
