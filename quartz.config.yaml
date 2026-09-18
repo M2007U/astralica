@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: astralica-owob.github.io/quwu
+  baseUrl: m2007u.github.io/astralica
   ignorePatterns:
     - private
     - templates
