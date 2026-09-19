@@ -10,13 +10,11 @@ some operator will have a "left side", "separator" and "right side"
 here we have the side by side comparison.
 
 
-|        |     |                          |     |                          |     |                         |
-| ------ | --- | ------------------------ | --- | ------------------------ | --- | ----------------------- |
-|        |     | ![[zoiga - not.png\|50]] |     | ![[zoiga - not.png\|50]] |     |                         |
-| not A  |     | ![[KaxiRae.png\|50]]     | A   | ![[KaxiRa.png\|50]]      |     |                         |
-|        |     |                          |     |                          |     |                         |
-|        |     | ![[zoiga - or.png\|50]]  |     | ![[zoiga - or.png\|50]]  |     | ![[zoiga - or.png\|50]] |
-| A or B |     | ![[KaxiRae.png\|50]]     | A   | ![[KaxiKo.png\|50]]      | B   | ![[KaxiRa.png\|50]]     |
+|        |     |                                                  |     |                                                 |     |                                                |
+| ------ | --- | ------------------------------------------------ | --- | ----------------------------------------------- | --- | ---------------------------------------------- |
+| not A  |     | ![[zoiga - not.png\|50]]<br>![[KaxiRae.png\|50]] | A   | ![[zoiga - not.png\|50]]<br>![[KaxiRa.png\|50]] |     |                                                |
+|        |     |                                                  |     |                                                 |     |                                                |
+| A or B |     | ![[zoiga - or.png\|50]]<br>![[KaxiRae.png\|50]]  | A   | ![[zoiga - or.png\|50]]<br>![[KaxiKo.png\|50]]  | B   | ![[zoiga - or.png\|50]]<br>![[KaxiRa.png\|50]] |
 to pronounce it, we have /(slot 1) - (slot 2)/ where
 **slot 1 : which operator it is ?** : and ? or ? xor ? but ?
 **slot 2 : left side or right side ?** : /ræ/ or /ra/, inspired by [[🟡 01 _ Kaxi - Ka _ Space]]
@@ -25,10 +23,9 @@ sometime we have a long chain of the same operator, for example :
 "A or B or C or D"
 in this case we can have :
 
-|                         |     |                         |     |                         |     |                         |     |                         |
-| ----------------------- | --- | ----------------------- | --- | ----------------------- | --- | ----------------------- | --- | ----------------------- |
-| ![[zoiga - or.png\|50]] |     | ![[zoiga - or.png\|50]] |     | ![[zoiga - or.png\|50]] |     | ![[zoiga - or.png\|50]] |     | ![[zoiga - or.png\|50]] |
-| ![[KaxiRae.png\|50]]    | A   | ![[KaxiKo.png\|50]]     | B   | ![[KaxiKo.png\|50]]     | C   | ![[KaxiKo.png\|50]]     | D   | ![[KaxiRa.png\|50]]     |
+|                                                 |     |                                                |     |                                                |     |                                                |     |                                                |
+| ----------------------------------------------- | --- | ---------------------------------------------- | --- | ---------------------------------------------- | --- | ---------------------------------------------- | --- | ---------------------------------------------- |
+| ![[zoiga - or.png\|50]]<br>![[KaxiRae.png\|50]] | A   | ![[zoiga - or.png\|50]]<br>![[KaxiKo.png\|50]] | B   | ![[zoiga - or.png\|50]]<br>![[KaxiKo.png\|50]] | C   | ![[zoiga - or.png\|50]]<br>![[KaxiKo.png\|50]] | D   | ![[zoiga - or.png\|50]]<br>![[KaxiRa.png\|50]] |
 
 but why with these complex ness ? to deal with weird and complex boolean expressions. let's say we are making a breakfast menu and we wrote something like :
 

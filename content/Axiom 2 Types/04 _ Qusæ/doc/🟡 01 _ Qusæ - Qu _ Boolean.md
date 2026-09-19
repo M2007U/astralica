@@ -19,12 +19,10 @@ the same goes for Astralica, however, for formality and clarity,
 below are the words : True and False
 
 
-|                                  |                    |     |                                 |                    |      |
-| -------------------------------- | ------------------ | --- | ------------------------------- | ------------------ | ---- |
-| ![[Qusae - thin.png\|50]]        |                    |     | ![[Qusae - thin.png\|50]]       |                    | <br> |
-| ^                                | ![[pfr_0.png\|50]] |     | ^                               | ![[pfr_1.png\|50]] |      |
-| ^                                |                    |     | ^                               |                    | <br> |
-| /Qusæ - No/<br>/Quno/<br>"False" | <                  |     | /Qusæ - Ni/<br>/Quni/<br>"True" | <                  |      |
+|                                             |     |                                             |
+| ------------------------------------------- | --- | ------------------------------------------- |
+| ![[Qusae - thin.png\|50]]![[pfr_0.png\|50]] |     | ![[Qusae - thin.png\|50]]![[pfr_1.png\|50]] |
+| /Qusæ - No/<br>/Quno/<br>"False"            |     | /Qusæ - Ni/<br>/Quni/<br>"True"             |
 
 These 2 words can also be translated directly as "No" and "Yes",
 these words can be used for answering Yes/No questions
@@ -40,9 +38,9 @@ turns out, Zoiga are operators for Qusæ,
 this is where boolean algebra comes in
 
 
-|                           |                    |     |                          |     |                           |                    |     |                           |     |                           |                    |      |
-| ------------------------- | ------------------ | --- | ------------------------ | --- | ------------------------- | ------------------ | --- | ------------------------- | --- | ------------------------- | ------------------ | ---- |
-| ![[Qusae - thin.png\|50]] |                    |     |                          |     | ![[Qusae - thin.png\|50]] |                    |     |                           |     | ![[Qusae - thin.png\|50]] |                    | <br> |
-| ^                         | ![[pfr_1.png\|50]] |     | ![[zoiga - xor.png\|50]] |     | ^                         | ![[pfr_1.png\|50]] |     | ![[equ_01-equal.png\|50]] |     | ^                         | ![[pfr_0.png\|50]] | <br> |
-| ^                         |                    |     |                          |     | ^                         |                    |     |                           |     | ^                         |                    | <br> |
+|                                             |     |                          |     |                                             |     |                           |     |                                             |
+| ------------------------------------------- | --- | ------------------------ | --- | ------------------------------------------- | --- | ------------------------- | --- | ------------------------------------------- |
+|                                             |     |                          |     |                                             |     |                           |     |                                             |
+| ![[Qusae - thin.png\|50]]![[pfr_1.png\|50]] |     | ![[zoiga - xor.png\|50]] |     | ![[Qusae - thin.png\|50]]![[pfr_1.png\|50]] |     | ![[equ_01-equal.png\|50]] |     | ![[Qusae - thin.png\|50]]![[pfr_0.png\|50]] |
+|                                             |     |                          |     |                                             |     |                           |     |                                             |
 

@@ -18,10 +18,9 @@ it is reasonable to call "Hue" as /Li - KlaRuTa/ or shorter /Li - Ta/
 
 here we have 2 variations to write it :
 
-|                           |     |                              |
-| ------------------------- | --- | ---------------------------- |
-| ![[KosraNo_Lira.png\|50]] | or  | ![[KosraNo_Lira.png\|50]]    |
-| ![[Taxi.png\|50]]         | ^   | ![[KosraNo_Lira_Ta.png\|50]] |
+|                                                |     |                                                           |
+| ---------------------------------------------- | --- | --------------------------------------------------------- |
+| ![[KosraNo_Lira.png\|50]]<br>![[Taxi.png\|50]] | or  | ![[KosraNo_Lira.png\|50]]<br>![[KosraNo_Lira_Ta.png\|50]] |
 
 Based on different species, different entities may detect hues differently.
 
@@ -41,12 +40,10 @@ One way to understand this is to say that "different species will have slightly 
 Here every species will need to agree on some Frequencies as their Primary Frequencies".
 Here the slot will be a number, where this number is the index of the agreed frequency.
 
+|                                                                                        |
+| -------------------------------------------------------------------------------------- |
+| ![[KosraNo_Lira.png\|50]]<br>![[Taxi.png\|50]]<br>![[AstralicaSlots_Number-1.png\|50]] |
 
-|                           |
-| ------------------------- |
-| ![[KosraNo_Lira.png\|50]] |
-| ![[Taxi.png\|50]]         |
-| **(Slot : Color Index)**  |
 
 >[!example]
 >For the Human Dialect, it is defined that
@@ -71,10 +68,9 @@ Saturation can be thought as "the clarity of different frequencies or direction 
 Opacity can be thought as "the quantity ([[🟡 01 _ Klari - Kla _ Quantification]]) of that color being applied"
 
 
-|                           |     |                           |     |                                |
-| ------------------------- | --- | ------------------------- | --- | ------------------------------ |
-| ![[KosraNo_Lira.png\|50]] |     | ![[KosraNo_Lira.png\|50]] |     | ![[KosraNo_Lira.png\|50]]      |
-| ![[Kaxi.png\|50]]         |     | ![[KaxiAra_Fat.png\|50]]  |     | ![[Klari_Square.png\|50]]      |
-| Amplitude<br>/Li - Ka/    |     | Sturation<br>/Li - ɁaRa/  |     | Amount / Opacity<br>/Li - Kla/ |
+|                                                |     |                                                       |     |                                                        |
+| ---------------------------------------------- | --- | ----------------------------------------------------- | --- | ------------------------------------------------------ |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] |     | ![[KosraNo_Lira.png\|50]]<br>![[KaxiAra_Fat.png\|50]] |     | ![[KosraNo_Lira.png\|50]]<br>![[Klari_Square.png\|50]] |
+| Amplitude<br>/Li - Ka/                         |     | Sturation<br>/Li - ɁaRa/                              |     | Amount / Opacity<br>/Li - Kla/                         |
 
 

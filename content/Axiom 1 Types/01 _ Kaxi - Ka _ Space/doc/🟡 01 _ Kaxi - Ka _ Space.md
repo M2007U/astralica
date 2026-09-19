@@ -21,26 +21,30 @@ Simply adding a dash on the direction on the gizmo, this will give the general d
 
 These words by their own only has information of direction only, to add more information to it, we need more modifiers.
 
-|          |     |                          |                         |                     |
-| :------: | :-: | :----------------------: | :---------------------: | :-----------------: |
-|    -     |  <  |           neg            |           neu           |         pos         |
-|    ^     |  ^  |           /æ/            |           /o/           |         /a/         |
-| 1st Axis | /r/ | ![[KaxiRae.png\|50]]<br> | ![[KaxiKo.png\|50]]<br> | ![[KaxiRa.png\|50]] |
-|    ^     |  ^  |           left           |         middle          |        right        |
-|    ^     |  ^  |    /KaxiRæ/<br>/KaRa/    |   /KaxiRo/<br>/KaRo/    | /KaxiRa/<br>/KaRa/  |
-| 2nd Axis | /t/ |   ![[KaxiTae.png\|50]]   |   ![[KaxiKo.png\|50]]   | ![[KaxiTa.png\|50]] |
-|    ^     |  ^  |           down           |         middle          |         up          |
-|    ^     |  ^  |    /KaxiTæ/<br>/KaTæ/    |   /KaxiTo/<br>/KaTo/    | /KaxiTa/<br>/KaTa/  |
-| 3rd Axis | /k/ |   ![[KaxiKae.png\|50]]   |   ![[KaxiKo.png\|50]]   | ![[KaxiKa.png\|50]] |
-|    ^     |  ^  |           back           |         middle          |        front        |
-|    ^     |  ^  |    /KaxiKæ/<br>/KaKæ/    |   /KaxiKo/<br>/KaKo/    | /KaxiKa/<br>/KaKa/  |
+|                                                          |                                                      |                                                      |
+| :------------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: |
+|                                                          |  ![[KaxiTa.png\|50]]<br>/KaxiTa/<br>/KaTa/<br>"up"   | ![[KaxiKa.png\|50]]<br>/KaxiKa/<br>/KaKa/<br>"front" |
+|   ![[KaxiRae.png\|50]]<br>/KaxiRæ/<br>/KaRa/<br>"left"   |     ![[KaxiKo.png\|50]]<br>//<br>//<br>"middle"      | ![[KaxiRa.png\|50]]<br>/KaxiRa/<br>/KaRa/<br>"right" |
+| ![[KaxiKae.png\|50]]<br>/KaxiKæ/<br>/KaKæ/<br>"back"<br> | ![[KaxiTae.png\|50]]<br>/KaxiTæ/<br>/KaTæ/<br>"down" |                                                      |
 
+>[!tip] The Gizmo is Unity Game Engine Based
+>in Astralica,
+>
+>the 1st, 2nd, 3rd axis are Left-Right, Up-Down, Front-Back
+>each with their pronunciations : /r/, /t/, /k/
+>when pronouncing "T",
+>your tongue touches the ceiling of your oral cavity,  which is in the "up" direction,
+>when pronouncing "K",
+>gas in your mouth goes from the back to the front
+>
+>each axis has a positive direction and negative direction
+>each with their pronunciation : /a/ and /æ/
 
->[!hint] The Gizmo is Unity Game Engine Based
->the positive direction has their vowel to be "a",
->and the negative direction to be "æ" which is the modification of "a".
->when pronouncing "T", your tongue touches the ceiling of your oral cavity,  which is in the "up" direction,
->when pronouncing "K", gas in your mouth goes from the back to the front
+>[!note] What about "Middle" ?
+>
+>middle can be /KaxiRo/ or /KaxiTo/ or /KaxiKo/
+>depends on which axis we are dealing with, we can pick the correct one
+>but in everyday lives or casual speeches, whichever will work
 
 however these general directions are not enough :
 how can we differentiate "on the left", "to the left", "how much to the left"

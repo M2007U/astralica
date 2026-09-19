@@ -35,16 +35,14 @@ Everything after "Ru" is the Denominator of that Composite Unit.
 
 and here are a few examples :
 
-|     |                                 |                                           |                                 | -   |                                > |                                 |                             |
-| --- | ------------------------------- | ----------------------------------------- | ------------------------------- | --- | ------------------------------- | ------------------------------- | --------------------------- |
-|     | ![[opr_11-muldiv_thin.png\|50]] | ![[Kaxi.png\|50]]                         | Velocity<br>/Ko - KaRuTa/       |     | ![[opr_11-muldiv_thin.png\|50]] | ![[Klari_Square.png\|50]]       | Frequency<br>/Ko - KlaRuTa/ |
-|     | ^                               | ![[Taxi.png\|50]]                         | ^                               |     | ^                               | ![[Taxi.png\|50]]               | ^                           |
-| -   |                                 |                                           |                                 |     |                                 |                                 |                             |
-|     | ![[opr_11-muldiv_thin.png\|50]] | ![[Kaxi.png\|50]]                         | Acceleration<br>/Ko - KaRuTaTa/ |     | ![[opr_11-muldiv_thin.png\|50]] | ![[Kiza - Electricity.png\|50]] | Current<br>/Ko - ZaRuTa/    |
-|     | ^                               | ![[Taxi.png\|50]]![[Taxi.png\|50]]        | ^                               |     | ^                               | ![[Taxi.png\|50]]               | ^                           |
-| -   |                                 |                                           |                                 |     |                                 |                                 |                             |
-|     | ![[opr_11-muldiv_thin.png\|50]] | ![[Kaxi.png\|50]]![[Maji - Mass.png\|50]] | Force<br>/Ko - KaMaRuTaTa/      |     |                                 |                                 |                             |
-|     | ^                               | ![[Taxi.png\|50]]![[Taxi.png\|50]]        | ^                               |     |                                 |                                 |                             |
+|     |                                 |                                                                                 |                                 |     |                                 |                                                      |                             |
+| --- | ------------------------------- | ------------------------------------------------------------------------------- | ------------------------------- | --- | ------------------------------- | ---------------------------------------------------- | --------------------------- |
+|     | ![[opr_11-muldiv_thin.png\|50]] | ![[Kaxi.png\|50]]<br>![[Taxi.png\|50]]                                          | Velocity<br>/Ko - KaRuTa/       |     | ![[opr_11-muldiv_thin.png\|50]] | ![[Klari_Square.png\|50]]<br>![[Taxi.png\|50]]       | Frequency<br>/Ko - KlaRuTa/ |
+|     |                                 |                                                                                 |                                 |     |                                 |                                                      |                             |
+|     | ![[opr_11-muldiv_thin.png\|50]] | ![[Kaxi.png\|50]]<br>![[Taxi.png\|50]]![[Taxi.png\|50]]                         | Acceleration<br>/Ko - KaRuTaTa/ |     | ![[opr_11-muldiv_thin.png\|50]] | ![[Kiza - Electricity.png\|50]]<br>![[Taxi.png\|50]] | Current<br>/Ko - ZaRuTa/    |
+|     |                                 |                                                                                 |                                 |     |                                 |                                                      |                             |
+|     | ![[opr_11-muldiv_thin.png\|50]] | ![[Kaxi.png\|50]]![[Maji - Mass.png\|50]]<br>![[Taxi.png\|50]]![[Taxi.png\|50]] | Force<br>/Ko - KaMaRuTaTa/      |     |                                 |                                                      |                             |
+
 
 >[!note]
 >Due to commutativity of multiplication and division,

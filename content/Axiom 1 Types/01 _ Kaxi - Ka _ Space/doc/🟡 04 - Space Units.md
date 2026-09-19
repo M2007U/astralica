@@ -1,10 +1,9 @@
 This will be useful when it comes to geometry, or architectural design, or any form of activities which requires space, or length or area or volume calculations and measurements.
 
 
-|                        |                           |            |
-| ---------------------- | ------------------------- | ---------- |
-| ![[Kaxi-thin.png\|50]] | ![[Klari_Square.png\|50]] | **Slot 2** |
-| ^                      | **Slot 1**                | ^          |
+|                        |                                                                   |                                      |
+| ---------------------- | ----------------------------------------------------------------- | ------------------------------------ |
+| ![[Kaxi-thin.png\|50]] | ![[Klari_Square.png\|50]]<br>![[AstralicaSlots_Number-1.png\|50]] | ![[AstralicaSlots_Number-2.png\|50]] |
 
 ## Slot 1 : Dimension Quantity
 

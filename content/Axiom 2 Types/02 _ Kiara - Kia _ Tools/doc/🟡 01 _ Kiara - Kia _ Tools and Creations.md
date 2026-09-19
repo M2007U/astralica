@@ -22,12 +22,10 @@ so far tools can be categorized into 2 types :
 - tools that help us to make measurements
 - tools that act as an extension of us
 
-|                                                              |                      |     |     |     |                                                                 |                            |     |     |
-| ------------------------------------------------------------ | -------------------- | --- | --- | --- | --------------------------------------------------------------- | -------------------------- | --- | --- |
-| ![[Kiara.png\|50]]                                           | ![[Kosra.png\|50]]   |     |     |     | ![[Kiara.png\|50]]                                              | ![[Event_Process.png\|50]] |     |     |
-| ^                                                            | ![[Request.png\|50]] |     |     | ^   | ^                                                               | ![[Request.png\|50]]       |     |     |
-| /Kiara - SæVaKoa/<br>/Kiakoa/                                | <                    | <   | <   | ^   | /Kiara - SæVaSæto/<br>/Kiasæo/                                  | <                          | <   | <   |
-| Tools for us to ask for information<br>Tools for measurement | <                    | <   | <   | ^   | Tools for us to ask for process / method<br>Tools for extension | <                          | <   | <   |
+|                    |                                            |                               |                                                              |     |                    |                                                    |                                |                                                                 |
+| ------------------ | ------------------------------------------ | ----------------------------- | ------------------------------------------------------------ | --- | ------------------ | -------------------------------------------------- | ------------------------------ | --------------------------------------------------------------- |
+| ![[Kiara.png\|50]] | ![[Kosra.png\|50]]<br>![[Request.png\|50]] | /Kiara - SæVaKoa/<br>/Kiakoa/ | Tools for us to ask for information<br>Tools for measurement |     | ![[Kiara.png\|50]] | ![[Event_Process.png\|50]]<br>![[Request.png\|50]] | /Kiara - SæVaSæto/<br>/Kiasæo/ | Tools for us to ask for process / method<br>Tools for extension |
+
 sometimes we only need the radical part /Kiara/ or /Kia/
 the /SæVaKoa/ and the /SæVaSæto/ part are optional and are meant for information attaching to narrow down things.
 
@@ -50,27 +48,29 @@ answer the 1st question,
 then attach the particle "Kin" (derived from "Kiara") if the 2nd question can be answered
 then answer the 2nd question
 
-|                    |                                                |                               |                          |                      |
-| ------------------ | ---------------------------------------------- | ----------------------------- | ------------------------ | -------------------- |
-| ![[Kiara.png\|50]] | ![[Kosra.png\|50]]or![[Event_Process.png\|50]] |                               | ![[Kiara - kin.png\|50]] |                      |
-| ^                  | ![[Request.png\|50]]                           | **slot : Target (mandatory)** | ^                        | **slot : mechanism** |
-| /Kiara/<br>/Kia/   | /SæVaKoa/ or /SæVaSæto/<br>/Koa/ or /sæo/      | ^                             | /Kin/                    | ^                    |
+|                    |                                                                        |                                       |                          |                                       |
+| ------------------ | :--------------------------------------------------------------------: | ------------------------------------- | ------------------------ | ------------------------------------- |
+| ![[Kiara.png\|50]] | ![[Kosra.png\|50]]or![[Event_Process.png\|50]]<br>![[Request.png\|50]] | ![[AstralicaSlots_Number-1.png\|100]] | ![[Kiara - kin.png\|50]] | ![[AstralicaSlots_Number-2.png\|100]] |
+|                    |                                                                        |                                       |                          |                                       |
+| /Kiara/<br>/Kia/   |               /SæVaKoa/ or /SæVaSæto/<br>/Koa/ or /sæo/                | ^                                     | /Kin/                    | ^                                     |
+slot 1 : Target : what is the tool trying to achieve mainly
+slot 2 : Mechanism : how is the tool achieving it ? what it is using ?
+
+
+
 
 >[!example] here are some examples :
 
-|                    |                            |                           |                           |                                         |                          |                           |     |                                                                                                                          |
-| ------------------ | -------------------------- | ------------------------- | ------------------------- | --------------------------------------- | ------------------------ | ------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------ |
-| ![[Kiara.png\|50]] | ![[Kosra.png\|50]]         | ![[KaxiRaae.png\|50]]     | ![[Klari.png\|50]]        |                                         |                          |                           |     | /Kiakoa - KaraæKla/<br>A tool to take measurements, length<br>A ruler                                                    |
-| ^                  | ![[Request.png\|50]]       | ^                         | ^                         |                                         |                          |                           |     | ^                                                                                                                        |
-|                    |                            |                           |                           |                                         |                          |                           |     | -                                                                                                                        |
-| ![[Kiara.png\|50]] | ![[Event_Process.png\|50]] | ![[KosraNo_Lira.png\|50]] | ![[Kiara - kin.png\|50]]  | ![[Kiza - Electricity.png\|50]]         |                          |                           |     | /Kiasæo - Lika - Kin - Za/<br>A tool to achieve brightness, by using electricity<br>a flash light" / "a bulb" / "an LED  |
-| ^                  | ![[Request.png\|50]]       | ![[Kaxi.png\|50]]         | ^                         | ^                                       |                          |                           |     | ^                                                                                                                        |
-|                    |                            |                           |                           |                                         |                          |                           |     | -                                                                                                                        |
-| ![[Kiara.png\|50]] | ![[Event_Process.png\|50]] | ![[Kaxi-thin.png\|50]]    | ![[Klari_Square.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]] | ![[Kiara - kin.png\|50]] | ![[KosraNo_Lira.png\|50]] |     | /Kiasæo - KaklaniSklara - Kin - Li/<br>A tool to achieve extreme distance, by using light<br>a telescope" / "a binocular |
-| ^                  | ![[Request.png\|50]]       | ^                         | ![[pfr_1.png\|50]]        | ![[Circle4.png\|50]]                    | ^                        | ^                         |     | ^                                                                                                                        |
-|                    |                            |                           |                           |                                         |                          |                           |     | -                                                                                                                        |
-| ![[Kiara.png\|50]] | ![[Event_Process.png\|50]] | ![[Kaxi-thin.png\|50]]    | ![[Klari_Square.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]]  | ![[Kiara - kin.png\|50]] | ![[KosraNo_Lira.png\|50]] |     | /Kiasæo - KaklaniSklaræ - Kin - Li/<br>A tool to achieve extreme small distance, by using light<br>a microscope          |
-| ^                  | ![[Request.png\|50]]       | ^                         | ![[pfr_1.png\|50]]        | ![[Circle4.png\|50]]                    | ^                        | ^                         |     | ^                                                                                                                        |
+|                    |                                                    |                                                |                                                 |                                                                 |                          |                           |     |                                                                                                                          |
+| ------------------ | -------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------- | ------------------------ | ------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------ |
+| ![[Kiara.png\|50]] | ![[Kosra.png\|50]]<br>![[Request.png\|50]]         | ![[KaxiRaae.png\|50]]                          | ![[Klari.png\|50]]                              |                                                                 |                          |                           |     | /Kiakoa - KaraæKla/<br>A tool to take measurements, length<br>A ruler                                                    |
+|                    |                                                    |                                                |                                                 |                                                                 |                          |                           |     | -                                                                                                                        |
+| ![[Kiara.png\|50]] | ![[Event_Process.png\|50]]<br>![[Request.png\|50]] | ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Kiara - kin.png\|50]]                        | ![[Kiza - Electricity.png\|50]]                                 |                          |                           |     | /Kiasæo - Lika - Kin - Za/<br>A tool to achieve brightness, by using electricity<br>a flash light" / "a bulb" / "an LED  |
+|                    |                                                    |                                                |                                                 |                                                                 |                          |                           |     | -                                                                                                                        |
+| ![[Kiara.png\|50]] | ![[Event_Process.png\|50]]<br>![[Request.png\|50]] | ![[Kaxi-thin.png\|50]]                         | ![[Klari_Square.png\|50]]<br>![[pfr_1.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]]<br>![[Circle4.png\|50]] | ![[Kiara - kin.png\|50]] | ![[KosraNo_Lira.png\|50]] |     | /Kiasæo - KaklaniSklara - Kin - Li/<br>A tool to achieve extreme distance, by using light<br>a telescope" / "a binocular |
+|                    |                                                    |                                                |                                                 |                                                                 |                          |                           |     | -                                                                                                                        |
+| ![[Kiara.png\|50]] | ![[Event_Process.png\|50]]<br>![[Request.png\|50]] | ![[Kaxi-thin.png\|50]]                         | ![[Klari_Square.png\|50]]<br>![[pfr_1.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]]<br>![[Circle4.png\|50]]  | ![[Kiara - kin.png\|50]] | ![[KosraNo_Lira.png\|50]] |     | /Kiasæo - KaklaniSklaræ - Kin - Li/<br>A tool to achieve extreme small distance, by using light<br>a microscope          |
+
 
 ### Chaotic
 

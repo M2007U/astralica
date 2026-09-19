@@ -18,11 +18,10 @@ this will describe the Brightness or the vibrance of the Color
 Another way to understand this is "How not black this color is"
 
 
-|                                           |                  |                  |                  |
-| ----------------------------------------- | ---------------- | ---------------- | ---------------- |
-| ![[KosraNo_Lira.png\|50]]                 | **(Slot : Hue)** | **(Slot : Sat)** | **(Slot : Vib)** |
-| ![[KosraNo_Lira_taraka.png\|50]]          | ^                | ^                | ^                |
-| "Color -<br>HSVA Format"<br>/Li - Taraka/ | <                | <                | <                |
+|                                                               |                  |                  |                  |
+| ------------------------------------------------------------- | ---------------- | ---------------- | ---------------- |
+| ![[KosraNo_Lira.png\|50]]<br>![[KosraNo_Lira_taraka.png\|50]] | **(Slot : Hue)** | **(Slot : Sat)** | **(Slot : Vib)** |
+| "Color -<br>HSVA Format"<br>/Li - Taraka/                     |                  |                  |                  |
 
 here, the Saturation Slot and Vibrance Slot are simple numbers, but Hue is the interesting one. Which will be dicused further as below.
 
@@ -278,25 +277,29 @@ In order for a color to be neutral, all color channels must all share the same v
 Now we can finally list what are the primary hues for different species :
 
 
-|     |                                                   |               |           |           |           |           |           |           |
-| --- | ------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | --------- | --------- |
-|     | Species & Dialect                                 | Primary Color | <         | $Color_p$ | $Color_1$ | $Color_2$ | $Color_3$ | $Color_f$ |
-|     | ^                                                 | English       | Astralica | Dominant  | Mix1      | Mix2      | Mix3      | MixFull   |
-| =   |                                                   |               |           |           |           |           |           |           |
-|     | Canids<br>*dogs, foxes, wolves*<br>[[🐞 Kainuqu]] | Yellow        | /Yarafa/  | /Ya/      | /Yi/      | /Yæ/      | /Ya/      | /Ra/      |
-|     | ^                                                 | Blue          | /Wafusa/  | /Wa/      | /Wi/      | /Wæ/      | /Wa/      | /Fu/      |
-| =   |                                                   |               |           |           |           |           |           |           |
-|     | Felis<br>*Cats, Tigers, Lions*<br>[[🐞 Kæmaganæ]] | Chartreuse    | /Nyawawi/ | /Nya/     | /Ni/      | /Nyæ/     | /Nya/     | /Wa/      |
-|     | ^                                                 | Indigo        | /Makonyo/ | /Ma/      | /Mi/      | /Mæ/      | /Ma/      | /Ko/      |
-| =   |                                                   |               |           |           |           |           |           |           |
-|     | Homo-Sapien<br>*Humans*<br>[[🐞 Hiureni]]         | Red           | /Rahaka/  | /Ra/      | /Ri/      | /Ræ/      | /Ra/      | /Ha/      |
-|     | ^                                                 | Green         | /Nawari/  | /Na/      | /Ni/      | /Næ/      | /Na/      | /Wa/      |
-|     | ^                                                 | Blue          | /Koqosa/  | /Ko/      | /Ki/      | /Kæ/      | /Ka/      | /Qo/      |
-| =   |                                                   |               |           |           |           |           |           |           |
-|     | Avians<br>*Birds*<br>[[🐞 Ariatovi]]              | Red           | /Haraka/  | /Ha/      | /Hi/      | /Hæ/      | /Ha/      | /Ra/      |
-|     | ^                                                 | Green         | /Kafaxa/  | /Ka/      | /Ki/      | /Kæ/      | /Ka/      | /Fa/      |
-|     | ^                                                 | Blue          | /Gæhofu/  | /Gæ/      | /Gi/      | /Gæ/      | /Ga/      | /Ho/      |
-|     | ^                                                 | Ultraviolet   | /Qiziri/  | /Qi/      | /Qi/      | /Qæ/      | /Qa/      | /Zi/      |
+|                                                   |               |           |           |           |           |           |           |
+| ------------------------------------------------- | ------------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Species & Dialect                                 | Primary Color |           | $Color_p$ | $Color_1$ | $Color_2$ | $Color_3$ | $Color_f$ |
+|                                                   | English       | Astralica | Dominant  | Mix1      | Mix2      | Mix3      | MixFull   |
+|                                                   |               |           |           |           |           |           |           |
+| Canids<br>*dogs, foxes, wolves*<br>[[🐞 Kainuqu]] |               |           |           |           |           |           |           |
+|                                                   | Yellow        | /Yarafa/  | /Ya/      | /Yi/      | /Yæ/      | /Ya/      | /Ra/      |
+|                                                   | Blue          | /Wafusa/  | /Wa/      | /Wi/      | /Wæ/      | /Wa/      | /Fu/      |
+|                                                   |               |           |           |           |           |           |           |
+| Felis<br>*Cats, Tigers, Lions*<br>[[🐞 Kæmaganæ]] |               |           |           |           |           |           |           |
+|                                                   | Chartreuse    | /Nyawawi/ | /Nya/     | /Ni/      | /Nyæ/     | /Nya/     | /Wa/      |
+|                                                   | Indigo        | /Makonyo/ | /Ma/      | /Mi/      | /Mæ/      | /Ma/      | /Ko/      |
+|                                                   |               |           |           |           |           |           |           |
+| Homo-Sapien<br>*Humans*<br>[[🐞 Hiureni]]         |               |           |           |           |           |           |           |
+|                                                   | Red           | /Rahaka/  | /Ra/      | /Ri/      | /Ræ/      | /Ra/      | /Ha/      |
+|                                                   | Green         | /Nawari/  | /Na/      | /Ni/      | /Næ/      | /Na/      | /Wa/      |
+|                                                   | Blue          | /Koqosa/  | /Ko/      | /Ki/      | /Kæ/      | /Ka/      | /Qo/      |
+|                                                   |               |           |           |           |           |           |           |
+| Avians<br>*Birds*<br>[[🐞 Ariatovi]]              |               |           |           |           |           |           |           |
+|                                                   | Red           | /Haraka/  | /Ha/      | /Hi/      | /Hæ/      | /Ha/      | /Ra/      |
+|                                                   | Green         | /Kafaxa/  | /Ka/      | /Ki/      | /Kæ/      | /Ka/      | /Fa/      |
+|                                                   | Blue          | /Gæhofu/  | /Gæ/      | /Gi/      | /Gæ/      | /Ga/      | /Ho/      |
+|                                                   | Ultraviolet   | /Qiziri/  | /Qi/      | /Qi/      | /Qæ/      | /Qa/      | /Zi/      |
 
 >[!note] is $Mix_0$ or $Color_0$ a valid move ?
 >if you want to describe a hue that it has no such said primary color but with a tendency to have that primary color, you can use $Color_0$ to hint "hey, perhaps this hue may contain that primary color, but for now it is 0"

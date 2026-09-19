@@ -28,20 +28,28 @@ Since we are 3 dimension creatures, the default axis are
 which you can refer to [[🟡 01 _ Kaxi - Ka _ Space]]
 However, if we need to go even further, we can define a name for an axis like so :
 
-|                                   |                              |                           |                               |                                 |                               |
-| --------------------------------- | ---------------------------- | ------------------------- | ----------------------------- | ------------------------------- | ----------------------------- |
-| ![[Warak.png\|50]]                | ![[KaxiAra_Fat.png\|50]]     | ![[equ_01-equal.png\|50]] | **slot : Axis Positive Name** | ![[opr_11-muldiv_thin.png\|50]] | **slot : Axis Negative Name** |
-| **slot :<br>dimension<br> count** | **slot :<br>Axis<br> Index** | ^                         | ^                             | ^                               | ^                             |
+|                                                                                                                        |                                                     |                                                              |                                 |                                                              |     |
+| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ | --- |
+| ![[Warak.png\|50]]![[KaxiAra_Fat.png\|50]]<br>![[AstralicaSlots_Number-1.png\|50]]![[AstralicaSlots_Number-2.png\|50]] | ![[empty_128.png\|25]]<br>![[equ_01-equal.png\|50]] | ![[empty_128.png\|25]]<br>![[AstralicaSlots_XYZW-X.png\|50]] | ![[opr_11-muldiv_thin.png\|50]] | ![[empty_128.png\|25]]<br>![[AstralicaSlots_XYZW-Y.png\|50]] |     |
+
+
 / Warak - **( slot : Dimension Count )** - ara - **( slot : Axis Index )** Kiamasæni **( slot : AxisPositiveName )** Ru **( slot : AxisNegativeName )** /
+
+Slot 1 : dimension count
+Slot 2 : Axis Index
+Slot X : Axis Positive Name
+Slot Y : Axis Negative Name 
 
 >[!example]
 >let's say we decided to introduce the 4th dimension :
 >declaring the 4th axis as "Fa"(Pos) and "Fæ"(Neg)
 >
-|                    |                          |                           |                                         |                                 |                                          |
-| ------------------ | ------------------------ | ------------------------- | --------------------------------------- | ------------------------------- | ---------------------------------------- |
-| ![[Warak.png\|50]] | ![[KaxiAra_Fat.png\|50]] | ![[equ_01-equal.png\|50]] | ![[c-21-f.png\|25]]![[v-870-a.png\|50]] | ![[opr_11-muldiv_thin.png\|50]] | ![[c-21-f.png\|25]]![[v-660-ae.png\|50]] |
-| ![[pfr_4.png\|50]] | ![[pfr_3.png\|50]]       | ^                         | ^                                       | ^                               | ^                                        |
+> |                                                                                    |                           |                                         |                                 |                                          |
+| ---------------------------------------------------------------------------------- | ------------------------- | --------------------------------------- | ------------------------------- | ---------------------------------------- |
+| ![[Warak.png\|50]]![[KaxiAra_Fat.png\|50]]<br>![[pfr_4.png\|50]]![[pfr_3.png\|50]] | ![[equ_01-equal.png\|50]] | ![[c-21-f.png\|25]]![[v-870-a.png\|50]] | ![[opr_11-muldiv_thin.png\|50]] | ![[c-21-f.png\|25]]![[v-660-ae.png\|50]] |
+
+
+
 
 ---
 
@@ -119,11 +127,9 @@ $$
 >selecting the range of cell from (3,5,-7) to (6,2,-1)
 >/Wa - ZoiRæ - Na Ru Li Ru KlæLa - ZoiRo - Læ Ru Næ Ru KlæNi - ZoiRa/
 >
-|                    |                      |                    |                    |                    |                     |                    |                    |                    |                     |
-| ------------------ | -------------------- | ------------------ | ------------------ | ------------------ | ------------------- | ------------------ | ------------------ | ------------------ | ------------------- |
-|                    | ![[zoiga.png\|50]]   |                    | ![[pfr_5.png\|50]] |                    | ![[zoiga.png\|50]]  |                    | ![[pfr_2.png\|50]] |                    | ![[zoiga.png\|50]]  |
-| ![[Warak.png\|50]] | ![[KaxiRae.png\|50]] |                    | ![[Warak.png\|50]] | ![[pfr_3.png\|50]] | ![[KaxiKo.png\|50]] |                    | ![[Warak.png\|50]] | ![[pfr_6.png\|50]] | ![[KaxiRa.png\|50]] |
-| ^                  | ^                    | ![[pfr_7.png\|50]] |                    |                    | ^                   | ![[pfr_1.png\|50]] |                    |                    | ^                   |
+>|                                              |                                            |                                                                                                                              |                                           |                                                                                                                              |                                           |
+| -------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| ![[empty_128.png\|50]]<br>![[Warak.png\|50]] | ![[zoiga.png\|50]]<br>![[KaxiRae.png\|50]] | ![[empty_128.png\|50]]![[pfr_5.png\|50]]<br>![[empty_128.png\|50]]![[Warak.png\|50]]![[pfr_3.png\|50]]<br>![[pfr_7.png\|50]] | ![[zoiga.png\|50]]<br>![[KaxiKo.png\|50]] | ![[empty_128.png\|50]]![[pfr_2.png\|50]]<br>![[empty_128.png\|50]]![[Warak.png\|50]]![[pfr_6.png\|50]]<br>![[pfr_1.png\|50]] | ![[zoiga.png\|50]]<br>![[KaxiRa.png\|50]] |
 
 >[!tip] This feels ... familiar
 >If you play Minecraft and you are an architect, chances are you have used the command "/fill" before.

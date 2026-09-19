@@ -4,10 +4,14 @@ heavily based on English and Chinese Pronouns.
 Astralica pronouns are based on modular structures. This means we can fill in the blanks for every slot and end up with a valid Astralica Pronoun.
 
 
-|                         |                                         |                               |
-| ----------------------- | --------------------------------------- | ----------------------------- |
-| ![[KosraNi - thin.png]] | **Slot : 123 + Quantity**               | **Slot : Respect (Optional)** |
-| ^                       | **Slot : Biological Gender (Optional)** | ^                             |
+|                         |                                                                                  |                                      |
+| ----------------------- | -------------------------------------------------------------------------------- | ------------------------------------ |
+| ![[KosraNi - thin.png]] | ![[AstralicaSlots_Number-1.png\|50]]<br>![[AstralicaSlots_Number-2.png\|50]]<br> | ![[AstralicaSlots_Number-3.png\|50]] |
+
+Slot 1 : 1st 2nd 3rd + Quantity
+Slot 2 : Biological Gender *(Optional)*
+Slot 3 : Level of Respect *(Optional)*
+
 
 ---
 

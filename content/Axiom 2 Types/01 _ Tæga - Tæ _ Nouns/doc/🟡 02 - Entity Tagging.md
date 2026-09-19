@@ -30,13 +30,11 @@ The concept here is
 "If you are below the stamp, you are being named"
 
 
-|                                                 |                     |     |     |                                                 |                      |     |     |
-| ----------------------------------------------- | ------------------- | --- | --- | ----------------------------------------------- | -------------------- | --- | --- |
-|                                                 | ![[daef.png\|50]]   |     |     |                                                 | ![[daef.png\|50]]    |     | -   |
-| ![[Taega - thin.png\|50]]                       | ^                   |     |     | ![[Taega - thin.png\|50]]                       | ^                    |     |     |
-| ^                                               | ![[KaxiTa.png\|50]] |     |     | ^                                               | ![[KaxiTae.png\|50]] |     |     |
-| /Tægadæf - KaxiTa/<br>/Tædæf - Kata/<br>/Tædaf/ | <                   | <   |     | /Tægadaf - kaxiTæ/<br>/Tædæf - Katæ/<br>/Tædæf/ | <                    | <   |     |
-| "Naming" or "Defining"                          | <                   | <   |     | "Name" or "Definition"                          | <                    | <   |     |
+|                                                     |                                           |     |                                                 |                        |
+| --------------------------------------------------- | ----------------------------------------- | --- | ----------------------------------------------- | ---------------------- |
+| ![[empty_128.png\|25]]<br>![[Taega - thin.png\|50]] | ![[daef.png\|50]]<br>![[KaxiTa.png\|50]]  |     | /Tægadæf - KaxiTa/<br>/Tædæf - Kata/<br>/Tædaf/ | "Naming" or "Defining" |
+|                                                     |                                           |     |                                                 |                        |
+| ![[empty_128.png\|25]]<br>![[Taega - thin.png\|50]] | ![[daef.png\|50]]<br>![[KaxiTae.png\|50]] |     | /Tægadaf - kaxiTæ/<br>/Tædæf - Katæ/<br>/Tædæf/ | "Name" or "Definition" |
 
 ---
 
@@ -53,13 +51,10 @@ Another use case is that sometimes in a same sentence, 2 same words might refer 
 
 To detach the connection between the object and string (the temporary label), we can use /Tædof/, followed by the temporary label.
 
-|                                                 |                     |     |
-| ----------------------------------------------- | ------------------- | --- |
-|                                                 | ![[daef.png\|50]]   |     |
-| ![[Taega - thin.png\|50]]                       | ^                   |     |
-| ^                                               | ![[KaxiKo.png\|50]] |     |
-| /Tægadæf - KaxiTo/<br>/Tædæf - Kato/<br>/Tædof/ | <                   | <   |
-| "detach object and string"                      | <                   | <   |
+|                                                     |                                          |     |                                                 |                            |
+| --------------------------------------------------- | ---------------------------------------- | --- | ----------------------------------------------- | -------------------------- |
+| ![[empty_128.png\|25]]<br>![[Taega - thin.png\|50]] | ![[daef.png\|50]]<br>![[KaxiKo.png\|50]] |     | /Tægadæf - KaxiTo/<br>/Tædæf - Kato/<br>/Tædof/ | "detach object and string" |
+
 
 >[!example]
 >/ AppleOnABox Tædæf ALPHA /

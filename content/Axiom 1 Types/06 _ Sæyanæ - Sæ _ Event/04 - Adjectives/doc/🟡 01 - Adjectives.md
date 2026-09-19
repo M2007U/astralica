@@ -24,21 +24,20 @@ Here we have ways to crank a trait
 >these 2 adjectives describes the trait : horizontal length or width
 >"narrow" is "lack of width", "wide" is "excess of width"
 >
->|                       |                           |                                        |
->| --------------------- | ------------------------- | -------------------------------------- |
->| ![[KaxiRaae.png\|50]] | ![[Klari_Square.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]] |
->| ^                     | ![[pfr_1.png\|50]]        | ^                                      |
+|                       |                                                 |                                        |
+| --------------------- | ----------------------------------------------- | -------------------------------------- |
+| ![[KaxiRaae.png\|50]] | ![[Klari_Square.png\|50]]<br>![[pfr_1.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]] |
 >
 >/KaRaæKlani - Sklæ/
 >"Width - Crank Low" = "narrow"
 >
->|                       |                           |                                         |
->| --------------------- | ------------------------- | --------------------------------------- |
->| ![[KaxiRaae.png\|50]] | ![[Klari_Square.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]] |
->| ^                     | ![[pfr_1.png\|50]]        | ^                                       |
+|                       |                                                 |                                         |
+| --------------------- | ----------------------------------------------- | --------------------------------------- |
+| ![[KaxiRaae.png\|50]] | ![[Klari_Square.png\|50]]<br>![[pfr_1.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]] |
 >
 >/KaRaæKlani - Skla/
 >"Width - Crank High" = "wide"
+
 
 ---
 
@@ -69,49 +68,35 @@ here, the way we crop the pronunciation is : $(Skla/Sklæ)(ru/ro/ri/ræ/ra)$
 >[!example] 
 >here we can use brightness, and we go from completely dark to extremely bright :
 >
->|                           |                    |                                         |                                                   |                                               |
->| ------------------------- | ------------------ | --------------------------------------- | ------------------------------------------------- | :-------------------------------------------: |
->| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]]  | /Likakla - Sklæra/<br>"Charcoal Dark"             |         ![[ref - Blackman.png\|100]]          |
->| ![[Kaxi.png\|50]]         | ^                  | ![[Circle4.png\|50]]                    | ^                                                 |                       ^                       |
->|                           |                    |                                         |                                                   |                     <br>                      |
->| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]]  | /Likakla - Sklæræ/<br>"Kind of Dark"              |        ![[ref - Cat - Void.png\|100]]         |
->| ![[Kaxi.png\|50]]         | ^                  | ![[Circle3.png\|50]]                    | ^                                                 |                       ^                       |
->|                           |                    |                                         |                                                   |                     <br>                      |
->| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]]  | /Likakla - Sklæri/<br>"Just Dark"                 |         ![[ref - Gray room.png\|100]]         |
->| ![[Kaxi.png\|50]]         | ^                  | ![[Circle2.png\|50]]                    | ^                                                 |                       ^                       |
->|                           |                    |                                         |                                                   |                     <br>                      |
->| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]]  | /Likakla - Sklæræ/<br>"Cozy Dim"                  |         ![[ref - Cozy Room.png\|100]]         |
->| ![[Kaxi.png\|50]]         | ^                  | ![[Circle1.png\|50]]                    | ^                                                 |                       ^                       |
->|                           |                    |                                         |                                                   |                     <br>                      |
->| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]]  | /Likakla - Sklæru/<br>"Purfect Dark"/ "Dark Mode" |       ![[ref - Cat - Laptop.png\|100]]        |
->| ![[Kaxi.png\|50]]         | ^                  | ![[Circle0.png\|50]]                    | ^                                                 |                       ^                       |
->|                           |                    |                                         |                                                   |                     <br>                      |
->| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]] | /Likakla - Sklaru/<br>"Comfortable Bright"        | ![[ref - VRC - Relativity Express.png\|200]]  |
->| ![[Kaxi.png\|50]]         | ^                  | ![[Circle0.png\|50]]                    | ^                                                 |                       ^                       |
->|                           |                    |                                         |                                                   |                     <br>                      |
->| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]] | /Likakla - Sklaro/<br>"Acceptable Bright"         |     ![[ref - Classroom Bright.png\|200]]      |
->| ![[Kaxi.png\|50]]         | ^                  | ![[Circle1.png\|50]]                    | ^                                                 |                       ^                       |
->|                           |                    |                                         |                                                   |                     <br>                      |
->| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]] | /Likakla - Sklaru/<br>"Just Bright"               | ![[ref - Porter Robinson - Nurture.png\|100]] |
->| ![[Kaxi.png\|50]]         | ^                  | ![[Circle2.png\|50]]                    | ^                                                 |                       ^                       |
->|                           |                    |                                         |                                                   |                     <br>                      |
->| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]] | /Likakla - Sklaru/<br>"a bit too bright"          |      ![[ref - Classroom White.png\|150]]      |
->| ![[Kaxi.png\|50]]         | ^                  | ![[Circle3.png\|50]]                    | ^                                                 |                       ^                       |
->|                           |                    |                                         |                                                   |                     <br>                      |
->| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]] | /Likakla - Sklaru/<br>"Bright Mode"               |     ![[ref - Cat - BrightMode.png\|150]]      |
->| ![[Kaxi.png\|50]]         | ^                  | ![[Circle4.png\|50]]                    | ^                                                 |                       ^                       |
-|                           |                    |                                         |                                                   |                     <br>                      |
-| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]] | /Likakla - Sklaro/<br>"Acceptable Bright"         |     ![[ref - Classroom Bright.png\|200]]      |
-| ![[Kaxi.png\|50]]         | ^                  | ![[Circle1.png\|50]]                    | ^                                                 |                       ^                       |
-|                           |                    |                                         |                                                   |                     <br>                      |
-| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]] | /Likakla - Sklaru/<br>"Just Bright"               | ![[ref - Porter Robinson - Nurture.png\|100]] |
-| ![[Kaxi.png\|50]]         | ^                  | ![[Circle2.png\|50]]                    | ^                                                 |                       ^                       |
-|                           |                    |                                         |                                                   |                     <br>                      |
-| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]] | /Likakla - Sklaru/<br>"a bit too bright"          |      ![[ref - Classroom White.png\|150]]      |
-| ![[Kaxi.png\|50]]         | ^                  | ![[Circle3.png\|50]]                    | ^                                                 |                       ^                       |
-|                           |                    |                                         |                                                   |                     <br>                      |
-| ![[KosraNo_Lira.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]] | /Likakla - Sklaru/<br>"Bright Mode"               |     ![[ref - Cat - BrightMode.png\|150]]      |
-| ![[Kaxi.png\|50]]         | ^                  | ![[Circle4.png\|50]]                    | ^                                                 |                       ^                       |
+>|                                                |                    |                                                                 |                                                   |                                               |
+| ---------------------------------------------- | ------------------ | --------------------------------------------------------------- | ------------------------------------------------- | :-------------------------------------------: |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]]<br>![[Circle4.png\|50]]  | /Likakla - Sklæra/<br>"Charcoal Dark"             |         ![[ref - Blackman.png\|100]]          |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]]<br>![[Circle3.png\|50]]  | /Likakla - Sklæræ/<br>"Kind of Dark"              |        ![[ref - Cat - Void.png\|100]]         |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]]<br>![[Circle2.png\|50]]  | /Likakla - Sklæri/<br>"Just Dark"                 |         ![[ref - Gray room.png\|100]]         |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]]<br>![[Circle1.png\|50]]  | /Likakla - Sklæræ/<br>"Cozy Dim"                  |         ![[ref - Cozy Room.png\|100]]         |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]]<br>![[Circle0.png\|50]]  | /Likakla - Sklæru/<br>"Purfect Dark"/ "Dark Mode" |       ![[ref - Cat - Laptop.png\|100]]        |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]]<br>![[Circle0.png\|50]] | /Likakla - Sklaru/<br>"Comfortable Bright"        | ![[ref - VRC - Relativity Express.png\|200]]  |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]]<br>![[Circle1.png\|50]] | /Likakla - Sklaro/<br>"Acceptable Bright"         |     ![[ref - Classroom Bright.png\|200]]      |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]]<br>![[Circle2.png\|50]] | /Likakla - Sklaru/<br>"Just Bright"               | ![[ref - Porter Robinson - Nurture.png\|100]] |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]]<br>![[Circle3.png\|50]] | /Likakla - Sklaru/<br>"a bit too bright"          |      ![[ref - Classroom White.png\|150]]      |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]]<br>![[Circle4.png\|50]] | /Likakla - Sklaru/<br>"Bright Mode"               |     ![[ref - Cat - BrightMode.png\|150]]      |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]]<br>![[Circle1.png\|50]] | /Likakla - Sklaro/<br>"Acceptable Bright"         |     ![[ref - Classroom Bright.png\|200]]      |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]]<br>![[Circle2.png\|50]] | /Likakla - Sklaru/<br>"Just Bright"               | ![[ref - Porter Robinson - Nurture.png\|100]] |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]]<br>![[Circle3.png\|50]] | /Likakla - Sklaru/<br>"a bit too bright"          |      ![[ref - Classroom White.png\|150]]      |
+|                                                |                    |                                                                 |                                                   |                     <br>                      |
+| ![[KosraNo_Lira.png\|50]]<br>![[Kaxi.png\|50]] | ![[Klari.png\|50]] | ![[Event_Adjective_Crank_High.png\|50]]<br>![[Circle4.png\|50]] | /Likakla - Sklaru/<br>"Bright Mode"               |     ![[ref - Cat - BrightMode.png\|150]]      |
 
 
 ---
@@ -120,26 +105,22 @@ here, the way we crop the pronunciation is : $(Skla/Sklæ)(ru/ro/ri/ræ/ra)$
 
 Just like in English, Adjectives can become comparative by adding "er" and become superlative by adding "est"
 
-Astralica uses the concept of a balance/scale to decide which 2 entity has more of that trait than the other
+Astralica uses the concept of a [[🟡 02 _ Kiara Maji - Kiama _ Scale or Balance]] to decide which 2 entity has more of that trait than the other
 
 *this will also work with Crank-Low and Crank-Medium as well*
 
-|                                         |                      |                                  |                                                  |
-| :-------------------------------------: | :------------------: | -------------------------------- | ------------------------------------------------ |
-| ![[Event_Adjective_Crank_High.png\|50]] |          <           | /Skla - Kiamasæræ/<br>/Sklamaræ/ | the noun on the Left has more of this trait      |
-|        ![[equ_06-great.png\|50]]        |          <           | ^                                | ^                                                |
-|                  <br>                   |                      |                                  |                                                  |
-| ![[Event_Adjective_Crank_High.png\|50]] |          <           | /Skla - Kiamasæra/<br>/Sklamara/ | the noun on the right has more of this trait     |
-|        ![[equ_05-less.png\|50]]         |          <           | ^                                | ^                                                |
-|                  <br>                   |                      |                                  |                                                  |
-| ![[Event_Adjective_Crank_High.png\|50]] |          <           | /Skla - Kiamasæta/<br>/Sklamata/ | the noun on the left has the most of this trait  |
-|        ![[Maji - Mass.png\|50]]         | ![[KaxiTa.png\|25]]  | ^                                | ^                                                |
-|                  <br>                   |                      |                                  |                                                  |
-| ![[Event_Adjective_Crank_High.png\|50]] |          <           | /Skla - Kiamasætæ/<br>/Sklamatæ/ | the noun on the left has the least of this trait |
-|        ![[Maji - Mass.png\|50]]         | ![[KaxiTae.png\|25]] | ^                                | ^                                                |
-|                                         |                      |                                  |                                                  |
-| ![[Event_Adjective_Crank_High.png\|50]] |          <           | /Skla - Kiamasæro/<br>/Sklamaro/ | both nouns have the same level of this trait     |
-|        ![[equ_01-equal.png\|50]]        |          <           | ^                                | ^                                                |
+|                                                                                         |                                  |                                                  |
+| :-------------------------------------------------------------------------------------: | -------------------------------- | ------------------------------------------------ |
+|          ![[Event_Adjective_Crank_High.png\|50]]<br>![[equ_06-great.png\|50]]           | /Skla - Kiamasæræ/<br>/Sklamaræ/ | the noun on the Left has more of this trait      |
+|                                          <br>                                           |                                  |                                                  |
+|           ![[Event_Adjective_Crank_High.png\|50]]<br>![[equ_05-less.png\|50]]           | /Skla - Kiamasæra/<br>/Sklamara/ | the noun on the right has more of this trait     |
+|                                          <br>                                           |                                  |                                                  |
+| ![[Event_Adjective_Crank_High.png\|50]]<br>![[Maji - Mass.png\|50]]![[KaxiTa.png\|25]]  | /Skla - Kiamasæta/<br>/Sklamata/ | the noun on the left has the most of this trait  |
+|                                          <br>                                           |                                  |                                                  |
+| ![[Event_Adjective_Crank_High.png\|50]]<br>![[Maji - Mass.png\|50]]![[KaxiTae.png\|25]] | /Skla - Kiamasætæ/<br>/Sklamatæ/ | the noun on the left has the least of this trait |
+|                                                                                         |                                  |                                                  |
+|          ![[Event_Adjective_Crank_High.png\|50]]<br>![[equ_01-equal.png\|50]]           | /Skla - Kiamasæro/<br>/Sklamaro/ | both nouns have the same level of this trait     |
+
 
 >[!example]
 >consider the following statement :

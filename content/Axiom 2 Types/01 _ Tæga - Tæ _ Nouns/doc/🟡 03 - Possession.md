@@ -73,10 +73,10 @@ like so :
 here we can turn "Tæyu" and "Tæya" into verbs by attaching "Krut" (refer to [[🟡 01 _ Karuta - Krut - Ku _ Verb]])
 
 
-|                                 |                                  |     |                                 |                                  |
-| ------------------------------- | -------------------------------- | --- | ------------------------------- | -------------------------------- |
-| ![[verb_modern - thin.png\|50]] | ![[possisive_dettached.png\|50]] |     | ![[verb_modern - thin.png\|50]] | ![[possessive_attached.png\|50]] |
-| /Krut-Tæga-Ya/<br>/Krut-Tæya/   | <                                |     | /Krut-Tæga-Yu/<br>/Krut-Tæyu/   | <                                |
+|                                                                 |     |                                                                 |
+| --------------------------------------------------------------- | --- | --------------------------------------------------------------- |
+| ![[verb_modern - thin.png\|50]]![[possisive_dettached.png\|50]] |     | ![[verb_modern - thin.png\|50]]![[possessive_attached.png\|50]] |
+| /Krut-Tæga-Ya/<br>/Krut-Tæya/                                   |     | /Krut-Tæga-Yu/<br>/Krut-Tæyu/                                   |
 
 
 

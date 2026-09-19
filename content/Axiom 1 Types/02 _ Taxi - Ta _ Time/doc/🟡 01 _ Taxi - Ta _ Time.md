@@ -32,11 +32,14 @@ In this case we need to specify if we are referring to
 **a moment (a position of time) or a quantity of time (duration).**
 
 
-|                                   |                    | -   |                                           |                |
-| --------------------------------- | ------------------ | --- | ----------------------------------------- | -------------- |
-| ![[Taxi-thin.png\|50]]                | ![[Kaxi-thin.png\|50]] |     | ![[Taxi-thin.png\|50]]                        | ![[Klari.png\|50]] |
-| A position<br>in time<br>a moment | <                  | ^   | A quantification<br>of time<br>a duration | <              |
-| /Ta-Ka/                           | <                  | ^   | /Ta-Kla/                                  | <              |
+|                                              |     |                                           |
+| -------------------------------------------- | --- | ----------------------------------------- |
+| ![[Taxi-thin.png\|50]]![[Kaxi-thin.png\|50]] |     | ![[Taxi-thin.png\|50]]![[Klari.png\|50]]  |
+| A position<br>in time<br>a moment            |     | A quantification<br>of time<br>a duration |
+| /Ta-Ka/                                      |     | /Ta-Kla/                                  |
+
+
+
 
 
 ## Predefined or Standard ?
@@ -54,20 +57,20 @@ we can choose wheter we want to time keeping with predefined context or go full-
 if we go for STANDARD units, we can ignore this slot.
 if we go for PREDEFINED units, we need to specify the location, and thus declaring the allowed set of units
 
-To specify the current planet or predefinations, this slot will be :
+To specify the current planet or predefinations, this segment will be :
 
-|                          |                    |
-| ------------------------ | ------------------ |
-| ![[Saeyanae.png\|50]]    | ![[Kosra.png\|50]] |
-| ![[Respond.png\|50]]     | ^                  |
-| ![[Kaxi.png\|50]]        | <                  |
-| **Slot : Location name** | <                  |
+|                                                           |                           |
+| --------------------------------------------------------- | ------------------------- |
+| ![[Saeyanae.png\|50]]<br>![[Respond.png\|50]]             | ![[Kosra - thin.png\|50]] |
+| ![[Kaxi.png\|50]]<br>![[AstralicaSlots_Number-1.png\|50]] |                           |
+
 where
+slot 1 is the name of the location,
 
-|                       |                    |
-| --------------------- | ------------------ |
-| ![[Saeyanae.png\|50]] | ![[Kosra.png\|50]] |
-| ![[Respond.png\|50]]  | ^                  |
+|                                               |                           |
+| --------------------------------------------- | ------------------------- |
+| ![[Saeyanae.png\|50]]<br>![[Respond.png\|50]] | ![[Kosra - thin.png\|50]] |
+
 means "provide information"
 
 ![[Kaxi.png|50]]
@@ -97,15 +100,15 @@ In this case, the time segment will act differently based on if we has choosen t
 
 and here are some of the time units :
 
-| Type         | symbol                         | unit        | pron 2023              | pron 2026          | symbol derivation                        |
-| ------------ | ------------------------------ | ----------- | ---------------------- | ------------------ | ---------------------------------------- |
-| Predefined   | ![[Circle2.png\|50]]           | year        | /Ta - Kla - æRa/       | /Ta - Kla - æRi/   | a planet's full single orbit             |
-| ^            | ![[Circle0.png\|50]]           | day         | /Ta - Kla - æRæ/       | /Ta - Kla - æRu/   | a planet's full single rotation          |
-| ^            | ![[TaxiLa.png\|50]]            | minute      | /Ta - Kla - Ri/        | /Ta - Kla - æRuRu/ | a half of an hourglass, a half of /Taxi/ |
-| Standardized | ![[03 - KoNa - Atom.png\|50]] | Kona second | /Ta - Kla - Kona - No/ | <                  | will explain below OwO>                  |
-| ^            | ![[nikro_01.png\|50]]          | Kona minute | /Ta - Kla - Kona - Ni/ | <                  | 64 Kona seconds                          |
-| ^            | ![[nikro_02.png\|50]]          | Kona hour   | /Ta - Kla - Kona - Næ/ | <                  | 64 Kona minutes                          |
-| ^            | ![[nikro_03.png\|50]]          | Kona day    | /Ta - Kla - Kona - Na/ | <                  | 64 Kona hours                            |
+| Type         | symbol                        | unit        | pron 2023              | pron 2026          | symbol derivation                        |
+| ------------ | ----------------------------- | ----------- | ---------------------- | ------------------ | ---------------------------------------- |
+| Predefined   | ![[Circle2.png\|50]]          | year        | /Ta - Kla - æRa/       | /Ta - Kla - æRi/   | a planet's full single orbit             |
+|              | ![[Circle0.png\|50]]          | day         | /Ta - Kla - æRæ/       | /Ta - Kla - æRu/   | a planet's full single rotation          |
+|              | ![[TaxiLa.png\|50]]           | minute      | /Ta - Kla - Ri/        | /Ta - Kla - æRuRu/ | a half of an hourglass, a half of /Taxi/ |
+| Standardized | ![[03 - KoNa - Atom.png\|50]] | Kona second | /Ta - Kla - Kona - No/ |                    | will explain below OwO>                  |
+|              | ![[nikro_01.png\|50]]         | Kona minute | /Ta - Kla - Kona - Ni/ |                    | 64 Kona seconds                          |
+|              | ![[nikro_02.png\|50]]         | Kona hour   | /Ta - Kla - Kona - Næ/ |                    | 64 Kona minutes                          |
+|              | ![[nikro_03.png\|50]]         | Kona day    | /Ta - Kla - Kona - Na/ |                    | 64 Kona hours                            |
 
 before moving on, let's derive the standard unit "Kona Second" /Ta - Kla - Kona - No/
 Here we will use something universal as our standard reffernce :
@@ -181,23 +184,21 @@ where a time segment pronunciation order is :
 >1 year 2 months 3 days 4 hours 5 minutes 6 seconds, on earth
 >
 
-|                        |                    |                                            |                    |                      |                      |                     |
-| ---------------------- | ------------------ | ------------------------------------------ | ------------------ | -------------------- | -------------------- | ------------------- |
-|                        | <                  | ![[Saeyanae.png\|50]]                      | ![[Kosra.png\|50]] | ![[stk_1.png\|50]]   | ![[stk_3.png\|50]]   | ![[stk_5.png\|50]]  |
-| ^                      | ^                  | ![[Respond.png\|50]]                       | ^                  | ^                    | ^                    | ^                   |
-| ![[Taxi-thin.png\|50]] | ![[Klari.png\|50]] | ![[Kaxi.png\|50]]                          | <                  | ![[Circle2.png\|50]] | ![[Circle0.png\|50]] | ![[TaxiLa.png\|50]] |
-|                        | <                  | ![[v-440-e.png\|50]]/r/![[c-21-f.png\|25]] | <                  | ![[stk_2.png\|50]]   | ![[stk_4.png\|50]]   | ![[stk_6.png\|50]]  |
+|                                          |                                               |                                           |                                                                  |                                                                  |                                                                 |
+| ---------------------------------------- | --------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------- |
+|                                          | ![[Saeyanae.png\|50]]<br>![[Respond.png\|50]] | ![[Kosra - thin.png\|50]]                 |                                                                  |                                                                  |                                                                 |
+| ![[Taxi-thin.png\|50]]![[Klari.png\|50]] |                                               | ![[Kaxi.png\|50]]<br>                     | ![[stk_1.png\|50]]<br>![[Circle2.png\|50]]<br>![[stk_2.png\|50]] | ![[stk_3.png\|50]]<br>![[Circle0.png\|50]]<br>![[stk_4.png\|50]] | ![[stk_5.png\|50]]<br>![[TaxiLa.png\|50]]<br>![[stk_6.png\|50]] |
+|                                          | ![[v-440-e.png\|50]]                          | ![[c-83-r-EN.png\|25]]![[c-21-f.png\|25]] |                                                                  |                                                                  |                                                                 |
 
 /Ta - Kla - æRi - NiRuNæ - æRu - NaRuLo - æRuRu - LiRuLæ/
 
 >[!example]
 2/3 Kona Seconds, 5/7 Kona Minutes, 11/13 Kona Hours, 19/17 Kona Days
 
-|                        |                    |                            |                    |                   |                                      |
-| ---------------------- | ------------------ | -------------------------- | ------------------ | ----------------- | ------------------------------------ |
-|                        | <                  | ![[stk_2.png\|50]]         | ![[stk_5.png\|50]] | ![[stk_B.png\|50]]    | ![[stk_1.png\|50]]![[stk_3.png\|50]] |
-| ![[Taxi-thin.png\|50]] | ![[Klari.png\|50]] | ![[03 - KoNa - Atom.png\|50]] | ![[nikro_01.png\|50]]  | ![[nikro_02.png\|50]] | ![[nikro_03.png\|50]]                    |
-|                        | <                  | ![[stk_3.png\|50]]         | ![[stk_7.png\|50]]     | ![[stk_D.png\|50]]    | ![[stk_1.png\|50]]![[stk_1.png\|50]] |
+|                                                                    |                                                                           |                                                                   |                                                                   |                                                                                                       |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| ![[empty_128.png\|25]]<br>![[Taxi-thin.png\|50]]![[Klari.png\|50]] | ![[stk_2.png\|50]]<br>![[03 - KoNa - Atom.png\|50]]<br>![[stk_3.png\|50]] | ![[stk_5.png\|50]]<br>![[nikro_01.png\|50]]<br>![[stk_7.png\|50]] | ![[stk_B.png\|50]]<br>![[nikro_02.png\|50]]<br>![[stk_D.png\|50]] | ![[stk_1.png\|50]]![[stk_3.png\|50]]<br>![[nikro_03.png\|50]]<br>![[stk_1.png\|50]]![[stk_1.png\|50]] |
+
 /Ta - Kla - KonaNo - NæRuNa - KonaNi - LiRuLa - KonaNæ - DaRuTi - KonaNa - NiNaRuNiNi/
 
 ## Preposition of Time

@@ -3,10 +3,12 @@ In English, we have "This, These, That, Those"
 which it is nicely patterned
 Astralica uses /Kosrano - Xiræf - (slot:index)/ > /Koxi - (slot:index)/
 
-|                           |                     |
-| ------------------------- | ------------------- |
-| ![[KosraNo_Thin.png\|50]] | ![[Xiraef.png\|50]] |
-|                           | **Slot : Index**    |
+|                           |                                                             |
+| ------------------------- | ----------------------------------------------------------- |
+| ![[KosraNo_Thin.png\|50]] | ![[Xiraef.png\|50]]<br>![[AstralicaSlots_Number-1.png\|50]] |
+
+here slot 1 is where the index goes
+
 and here are the indexes to mean different Demonstrative Object Words
 here we can see that Astralica cannot be perfectly translated into English
 

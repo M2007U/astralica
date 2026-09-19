@@ -15,8 +15,7 @@ here we use /Sævæ/ from  [[🟡 01 - Request and Provide]] as a way to mean "g
 
 |                               |                                                                     |                                   |                                                                    |
 | :---------------------------: | :-----------------------------------------------------------------: | :-------------------------------: | :----------------------------------------------------------------: |
-| **(Slot : Entity goes here)** |                         ![[Kosra.png\|50]]                          | **(Slot : Trait List goes here)** |                         ![[Kosra.png\|50]]                         |
-|               ^               |                        ![[Respond.png\|50]]                         |                 ^                 |                    ![[Respond - Copy.png\|50]]                     |
+| **(Slot : Entity goes here)** |             ![[Kosra.png\|50]]<br>![[Respond.png\|50]]              | **(Slot : Trait List goes here)** |         ![[Kosra.png\|50]]<br>![[Respond - Copy.png\|50]]          |
 |                               | /Sæyanævatæ - Kosra/<br>/Svæ-Koa/<br>/Svæk/<br>"Start info-segment" |                                   | /Sæyanævato - Kosra/<br>/Svo-Koa/<br>/Svok/<br>"Stop info-segment" |
 
 >[!note] Nested Information Segment
@@ -82,10 +81,10 @@ Ji-ball Svæk Kaklana Sklæ LiTa Rahaka Kla Na Svok
 
 or in compressed script :
 
-|                                                                                          |     |                      |     |                        |                           |                                        |     |                                  |                                                                                                                          |     |                    |                    |     |                             |
-| ---------------------------------------------------------------------------------------- | --- | -------------------- | --- | ---------------------- | ------------------------- | -------------------------------------- | --- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --- | ------------------ | ------------------ | --- | --------------------------- |
-| ![[Kalaeji - Jikalae.png\|50]]![[c-12-b.png\|25]]![[v-321-o.png\|50]]![[c-52-l.png\|25]] |     | ![[Kosra.png\|50]]   |     | ![[Kaxi-thin.png\|50]] | ![[Klari_Square.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]] |     | ![[KosraNo_Lira.png\|50]]        | ![[c-83-r-EN.png\|25]]![[v-870-a.png\|50]]![[c-71-h.png\|25]]![[v-870-a.png\|50]]![[c-63-k.png\|25]]![[v-870-a.png\|50]] |     | ![[Klari.png\|50]] | ![[pfr_3.png\|50]] |     | ![[Kosra.png\|50]]          |
-| ^                                                                                        |     | ![[Respond.png\|50]] |     | ^                      | ![[pfr_3.png\|50]]        |                                        |     | ![[KosraNo_Lira_taraka.png\|50]] | ^                                                                                                                        |     | ^                  | ^                  |     | ![[Respond - Copy.png\|50]] |
+|                                                                                          |     |                                            |     |                        |                                                 |                                        |     |                                                               |                                                                                                                          |     |                                      |     |                                                   |
+| ---------------------------------------------------------------------------------------- | --- | ------------------------------------------ | --- | ---------------------- | ----------------------------------------------- | -------------------------------------- | --- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --- | ------------------------------------ | --- | ------------------------------------------------- |
+| ![[Kalaeji - Jikalae.png\|50]]![[c-12-b.png\|25]]![[v-321-o.png\|50]]![[c-52-l.png\|25]] |     | ![[Kosra.png\|50]]<br>![[Respond.png\|50]] |     | ![[Kaxi-thin.png\|50]] | ![[Klari_Square.png\|50]]<br>![[pfr_3.png\|50]] | ![[Event_Adjective_Crank_Low.png\|50]] |     | ![[KosraNo_Lira.png\|50]]<br>![[KosraNo_Lira_taraka.png\|50]] | ![[c-83-r-EN.png\|25]]![[v-870-a.png\|50]]![[c-71-h.png\|25]]![[v-870-a.png\|50]]![[c-63-k.png\|25]]![[v-870-a.png\|50]] |     | ![[Klari.png\|50]]![[pfr_3.png\|50]] |     | ![[Kosra.png\|50]]<br>![[Respond - Copy.png\|50]] |
+
 
 *concept / mechanism used here : [[🟡 01 _ Kaxi - Ka _ Space]], [[🟡 03 - HSVA Format]], [[🟡 01 _ Klari - Kla _ Quantification]] *
 
@@ -100,8 +99,7 @@ or cropped : /Svak/
 
 |                               |                                                                     |                                   |                                                                    |
 | :---------------------------: | :-----------------------------------------------------------------: | :-------------------------------: | :----------------------------------------------------------------: |
-| **(Slot : Entity goes here)** |                         ![[Kosra.png\|50]]                          | **(Slot : Trait List goes here)** |                         ![[Kosra.png\|50]]                         |
-|               ^               |                        ![[Request.png\|50]]                         |                 ^                 |                    ![[Request - Copy.png\|50]]                     |
+| **(Slot : Entity goes here)** |             ![[Kosra.png\|50]]<br>![[Request.png\|50]]              | **(Slot : Trait List goes here)** |         ![[Kosra.png\|50]]<br>![[Request - Copy.png\|50]]          |
 |                               | /Sæyanævata - Kosra/<br>/Sva-Koa/<br>/Svak/<br>"Start info-segment" |                                   | /Sæyanævato - Kosra/<br>/Svo-Koa/<br>/Svok/<br>"Stop info-segment" |
 
 let's say we heard someone has a adopted a litter of cats and we wanted to ask :
@@ -126,16 +124,16 @@ Svok //done asking
 
 here we can nest, mixmatch information segments :
 
-|                        |                      |                         |                      |                     |                             |
-| :--------------------: | :------------------: | :---------------------: | -------------------- | ------------------- | --------------------------- |
-| **(Entity goes here)** |  ![[Kosra.png\|50]]  | **(what to specify ?)** | ![[Kosra.png\|50]]   | **(what to ask ?)** | ![[Kosra.png\|50]]          |
-|           ^            | ![[Respond.png\|50]] |            ^            | ![[Request.png\|50]] | ^                   | ![[Request - Copy.png\|50]] |
+|                        |                                            |                         |                                            |                     |                                                   |
+| :--------------------: | :----------------------------------------: | :---------------------: | ------------------------------------------ | ------------------- | ------------------------------------------------- |
+| **(Entity goes here)** | ![[Kosra.png\|50]]<br>![[Respond.png\|50]] | **(what to specify ?)** | ![[Kosra.png\|50]]<br>![[Request.png\|50]] | **(what to ask ?)** | ![[Kosra.png\|50]]<br>![[Request - Copy.png\|50]] |
+
 or
 
-|                        |                      |                     |                      |                         |                             |
-| :--------------------: | -------------------- | ------------------- | :------------------: | :---------------------: | --------------------------- |
-| **(Entity goes here)** | ![[Kosra.png\|50]]   | **(what to ask ?)** |  ![[Kosra.png\|50]]  | **(what to specify ?)** | ![[Kosra.png\|50]]          |
-|           ^            | ![[Request.png\|50]] | ^                   | ![[Respond.png\|50]] |            ^            | ![[Respond - Copy.png\|50]] |
+|                        |                                            |                     |                                            |                         |                                                   |
+| :--------------------: | ------------------------------------------ | ------------------- | :----------------------------------------: | :---------------------: | ------------------------------------------------- |
+| **(Entity goes here)** | ![[Kosra.png\|50]]<br>![[Request.png\|50]] | **(what to ask ?)** | ![[Kosra.png\|50]]<br>![[Respond.png\|50]] | **(what to specify ?)** | ![[Kosra.png\|50]]<br>![[Respond - Copy.png\|50]] |
+
 
 just to make sure we are on the same page
 from the previous examples
@@ -195,11 +193,10 @@ Sometimes, the trait list only has just one item, so instead of /Svæk ... Svok/
 we can go with /Svæki .../ or /Svaki .../ then followed by an information item
 
 
-|                      |                    |     |                      |                    |
-| -------------------- | ------------------ | --- | -------------------- | ------------------ |
-| ![[Request.png\|50]] | ![[Kosra.png\|50]] |     | ![[Respond.png\|50]] | ![[Kosra.png\|50]] |
-| ^                    | ![[pfr_1.png\|50]] |     | ^                    | ![[pfr_1.png\|50]] |
-| /Svaki/              | <                  |     | /Svæki/              | <                  |
+|                      |                                          |     |                      |                                          |
+| -------------------- | ---------------------------------------- | --- | -------------------- | ---------------------------------------- |
+| ![[Request.png\|50]] | ![[Kosra.png\|50]]<br>![[pfr_1.png\|50]] |     | ![[Respond.png\|50]] | ![[Kosra.png\|50]]<br>![[pfr_1.png\|50]] |
+| /Svaki/              |                                          |     | /Svæki/              |                                          |
 
 ---
 

@@ -26,10 +26,10 @@ which can be translated to "Sound-pitch-Name-1st"
 In human music theory,
 82.41Hz is the note E and 87.31 Hz is the note F and the fundamental frequency /Hætani/ which is 84.66278027105332 Hz falls in between that range (closer to note E)
 
-|                             |                        |                    |     |                           |     |                                                        |                             |                           |
-| --------------------------- | ---------------------- | ------------------ | --- | ------------------------- | --- | ------------------------------------------------------ | --------------------------- | ------------------------- |
-| ![[Haekios - thin.png\|50]] | ![[Taxi-thin.png\|50]] | ![[Taega.png\|50]] |     | ![[equ_01-equal.png\|50]] |     | ![[pfr_1.png\|50]]![[pfr_0.png\|50]]![[pfr_0.png\|50]] | ![[opr_11-muldiv_thin.png]] | ![[Klari_Square.png\|50]] |
-| ^                           | ^                      | ![[pfr_1.png\|50]] |     | ^                         |     | ^                                                      | ^                           | ![[Taxi.png\|50]]         |
+|                                                   |                                          |     |                                                     |     |                                                                                  |                             |                                                |
+| ------------------------------------------------- | ---------------------------------------- | --- | --------------------------------------------------- | --- | -------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------- |
+| ![[Haekios - thin.png\|50]]![[Taxi-thin.png\|50]] | ![[Taega.png\|50]]<br>![[pfr_1.png\|50]] |     | ![[empty_128.png\|25]]<br>![[equ_01-equal.png\|50]] |     | ![[empty_128.png\|25]]<br>![[pfr_1.png\|50]]![[pfr_0.png\|50]]![[pfr_0.png\|50]] | ![[opr_11-muldiv_thin.png]] | ![[Klari_Square.png\|50]]<br>![[Taxi.png\|50]] |
+
 /Hætatæni Kiamasæni Ninono Klaruta/
 *"Fundamental Frequency is 0x100 Hz"*
 
@@ -39,11 +39,12 @@ In human music theory,
 
 ## Pitch Interval
 
-|                             |                        |                           |                    |
-| --------------------------- | ---------------------- | ------------------------- | ------------------ |
-| ![[Haekios - thin.png\|50]] | ![[Taxi-thin.png\|50]] | ![[Kaxi.png\|50]]         | ![[Taega.png\|50]] |
-| ^                           | ^                      | ![[Klari_Square.png\|50]] | **(Slot:Factor)**  |
+|                                                   |                                                |                                                            |
+| ------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
+| ![[Haekios - thin.png\|50]]![[Taxi-thin.png\|50]] | ![[Kaxi.png\|50]]<br>![[Klari_Square.png\|50]] | ![[Taega.png\|50]]<br>![[AstralicaSlots_Number-1.png\|50]] |
+
 /HækiosTaxi - KaxiKlari - Tæga **(Slot:Factor)**/
+where slot 1 is the factor
 
 >[!tip]
 >the part /HækiosTaxi - KaKla/ can be interpreted as "the Logarithmic Distance for HækiosFrequency"
@@ -76,11 +77,14 @@ and we can use logarithmic distance
 
 here is the PROPER WAY to say/write it :
 
-|                             |                        |                           |                    |                                                                                 |                           |
-| --------------------------- | ---------------------- | ------------------------- | ------------------ | ------------------------------------------------------------------------------- | ------------------------- |
-| ![[Haekios - thin.png\|50]] | ![[Taxi-thin.png\|50]] | ![[Kaxi.png\|50]]         | ![[Taega.png\|50]] | ![[c-63-k.png\|25]]![[v-160-i.png\|50]]![[v-660-ae.png\|50]]![[c-21-f.png\|25]] | **(slot:NoteIndex)**      |
-| ^                           | ^                      | ![[Klari_Square.png\|50]] | ![[pfr_2.png\|50]] | ^                                                                               | **(slot:OctaveDivision)** |
+|                                                   |                                                                                    |                                                                                 |                                                                              |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ![[Haekios - thin.png\|50]]![[Taxi-thin.png\|50]] | ![[Kaxi.png\|50]]![[Taega.png\|50]]<br>![[Klari_Square.png\|50]]![[pfr_2.png\|50]] | ![[c-63-k.png\|25]]![[v-160-i.png\|50]]![[v-660-ae.png\|50]]![[c-21-f.png\|25]] | ![[AstralicaSlots_Number-1.png\|50]]<br>![[AstralicaSlots_Number-2.png\|50]] |
+
 /Hæta-Kakla-Tænæ-kiæf-(slot:NoteIndex)-ru-(slot:OctaveDivision)/
+where
+Slot 1 : Note Index
+Slot 2 : Octave Division
 but if this is too long to say we can crop it into
 /Hækiæf - (slot:NoteIndex) Ru (slot:OctaveDIvision)/
 

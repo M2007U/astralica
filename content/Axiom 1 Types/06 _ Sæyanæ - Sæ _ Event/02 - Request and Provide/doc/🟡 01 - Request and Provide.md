@@ -7,8 +7,7 @@ Not physically give and take, but grammatically and semantically
 
 |                                                      |     |                                                      |
 | ---------------------------------------------------- | --- | ---------------------------------------------------- |
-| ![[Saeyanae.png\|50]]                                |     | ![[Saeyanae.png\|50]]                                |
-| ![[Request.png\|50]]                                 |     | ![[Respond.png\|50]]                                 |
+| ![[Saeyanae.png\|50]]<br>![[Request.png\|50]]        |     | ![[Saeyanae.png\|50]]<br>![[Respond.png\|50]]        |
 | /Sæyanæ - VaTa/<br>/Sæ - VaTa/<br>/Sæ - Va/<br>/Sva/ |     | /Sæyanæ - VaTæ/<br>/Sæ - VaTæ/<br>/Sæ - Væ/<br>/Svæ/ |
 | Request                                              |     | Provide                                              |
 

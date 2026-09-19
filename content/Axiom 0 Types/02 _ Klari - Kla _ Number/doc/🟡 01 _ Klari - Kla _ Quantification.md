@@ -78,7 +78,7 @@ To put everything together, we have the following structure :
 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | /sa/ | /sæ/ | /si/ | /so/ | /sa/ | /sæ/ | /si/ | /so/ | /sa/ | /sæ/ | /si/ | /so/ | /sa/ | /sæ/ | /si/ | /so/ |
-| /ra/ | <    | <    | <    | /ræ/ | <    | <    | <    | /ri/ | <    | <    | <    | /ro/ | <    | <    | <    |
+|      |      |      | /ra/ |      |      |      | /ræ/ |      |      |      | /ri/ |      |      |      | /ro/ |
 
 
 **Decimal Points**

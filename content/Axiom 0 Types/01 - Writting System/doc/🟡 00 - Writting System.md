@@ -2,46 +2,80 @@ In Astralica, all the letters were made according to a rule/pattern.
 
 Astralica was started back at 2020, along the time, many different scripts has been made and discarded, during the process, new letters are added but here (this post) are the final types of scripts.
 
+
+---
 ## Terminology Shortcut
 
 before immediately diving into the tables, here are some shortforms for fancy linguistic terms :
 
-| group           | fancy name      | short form (works only in this document) |
-| --------------- | --------------- | ---------------------------------------- |
-| cavity position | labial          | lab                                      |
-| ^               | bilabial        | blab                                     |
-| ^               | labial dental   | labd                                     |
-| ^               | labial lingual  | labl                                     |
-| ^               | interdental     | iden                                     |
-| ^               | dental          | den                                      |
-| ^               | aveolar         | avl                                      |
-| ^               | post-aveolar    | avlP                                     |
-| ^               | retroflex       | ret                                      |
-| ^               | palatal         | pal                                      |
-| ^               | velar           | vel                                      |
-| ^               | uvular          | uvu *(oh hi zewei OwO/)*                 |
-| ^               | pharengal       | phg                                      |
-| ^               | epiglotal       | gltE                                     |
-| ^               | glotal          | glt                                      |
-| tongue position | tip             | tip                                      |
-| ^               | blade           | bld                                      |
-| ^               | back            | bck                                      |
-| manner          | click           | clk                                      |
-| ^               | plossive        | plo                                      |
-| ^               | affricate       | aff                                      |
-| ^               | fricative       | frc                                      |
-| ^               | approaximate    | apr                                      |
-| tongue behavior | curl            | cur                                      |
-| ^               | tap             | tap                                      |
-| ^               | trill           | trl                                      |
-| path            | nasal           | nas                                      |
-| ^               | lateral         | lat                                      |
-| ^               | nasal + lateral | naslat                                   |
-| boolean         | voiced          | voi                                      |
-| ^               | aspirated       | asp                                      |
-| ^               | rounded         | rnd                                      |
-| ^               | creaky          | crk                                      |
-| ^               | breathy         | brt                                      |
+
+### cavity position
+
+| original       | abbv                     |
+| -------------- | ------------------------ |
+| labial         | lab                      |
+| bilabial       | blab                     |
+| labial dental  | labd                     |
+| labial lingual | labl                     |
+| interdental    | iden                     |
+| dental         | den                      |
+| aveolar        | avl                      |
+| post-aveolar   | avlP                     |
+| retroflex      | ret                      |
+| palatal        | pal                      |
+| velar          | vel                      |
+| uvular         | uvu *(oh hi zewei OwO/)* |
+| pharengal      | phg                      |
+| epiglotal      | gltE                     |
+| glotal         | glt                      |
+
+### tongue position
+
+| original | abbv |
+| -------- | ---- |
+| tip      | tip  |
+| blade    | bld  |
+| back     | bck  |
+
+### manner
+
+| original     | abbv |
+| ------------ | ---- |
+| click        | clk  |
+| plossive     | plo  |
+| affricate    | aff  |
+| fricative    | frc  |
+| approaximate | apr  |
+
+### tongue behavior
+
+| original | abbv |
+| -------- | ---- |
+| curl     | cur  |
+| tap      | tap  |
+| trill    | trl  |
+
+### air flow path
+
+| original        | abbv   |
+| --------------- | ------ |
+| nasal           | nas    |
+| lateral         | lat    |
+| nasal + lateral | naslat |
+
+### boolean flags
+
+
+| original  | abbv |
+| --------- | ---- |
+| voiced    | voi  |
+| aspirated | asp  |
+| rounded   | rnd  |
+| creaky    | crk  |
+| breathy   | brt  |
+
+---
+
 
 ## Orthography
 
