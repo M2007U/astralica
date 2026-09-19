@@ -3,4 +3,4 @@ noun
 2. guard
 
 links
-[[kinqa]]
+[[🔵 kinqa]]

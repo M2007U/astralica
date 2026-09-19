@@ -1,7 +1,7 @@
 
 ![[Kiara.png|50]]![[empty_128.png|50]]![[c-63-k.png|25]]![[v-160-i.png|50]]![[v-870-a.png|50]]![[c-83-r-EN.png|25]]![[v-870-a.png|50]]
 
-The symbol is derived from a knife, [[kiæf]]
+The symbol is derived from a knife, [[🔵 kiæf]]
 which has the meaning of "a tool​" or "a creation"
 which mainly has the meaning of "a craft", "a processed object" etc
 
@@ -82,9 +82,9 @@ here is the word for "broom"
 
 | Dialect        | Pronunciation    | links     |
 | -------------- | ---------------- | --------- |
-| [[🐞 RutTæk]]  | /Kiasæo - bun/   | [[bun]]   |
-| [[🐞 Qionpa]]  | /Kiasæo - sozpa/ | [[sozpa]] |
-| [[🐞 Nyarato]] | /Kiasæo - hoki/  | [[hoki]]  |
+| [[🪴 03 - RutTæk]]  | /Kiasæo - bun/   | [[🔵 bun]]   |
+| [[🪴 03 - Qionpa]]  | /Kiasæo - sozpa/ | [[🔵 sozpa]] |
+| [[🐞 Nyarato]] | /Kiasæo - hoki/  | [[🔵 hoki]]  |
 
 ---
 

@@ -1,2 +1,7 @@
-Hiumen + Ren + Nin
-hiureni
+
+Human
+
+>[!note] pronunciation inspiration
+> Hiumen + Ren + Nin
+
+
