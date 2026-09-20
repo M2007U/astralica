@@ -82,9 +82,9 @@ here is the word for "broom"
 
 | Dialect        | Pronunciation    | links     |
 | -------------- | ---------------- | --------- |
-| [[🪴 03 - RutTæk]]  | /Kiasæo - bun/   | [[🔵 bun]]   |
-| [[🪴 03 - Qionpa]]  | /Kiasæo - sozpa/ | [[🔵 sozpa]] |
-| [[🐞 Nyarato]] | /Kiasæo - hoki/  | [[🔵 hoki]]  |
+| [[🪴 01b _ Elgia & Hinorean - RutTæk]]  | /Kiasæo - bun/   | [[🔵 bun]]   |
+| [[🪴 01a _ Qion - Qionpa]]  | /Kiasæo - sozpa/ | [[🔵 sozpah]] |
+| [[🪴 01a _ Hinorian - Nyarato]] | /Kiasæo - hoki/  | [[🔵 hoki]]  |
 
 ---
 

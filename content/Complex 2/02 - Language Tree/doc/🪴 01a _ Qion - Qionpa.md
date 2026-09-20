@@ -2,6 +2,10 @@ a dialect mostly spoken by the Qion people
 the phonetic inventory is similiar to Chinese and Cantonese
 it is tonal as well.
 
+to get a feel of it, find a Chinese video
+- with 2 china aunty quarelling with vulgar words 
+- young china tiktokers who only care about follower counts arguing and yelling vulgar words
+
 most of the Qionpa words has a lot of /szc/, /xjq/, /shzhch/
 and a lot of diphtongs /iu/, /au/, /ai/
 most of the /ptk/ are extremely aspirated

@@ -10,6 +10,11 @@ sometimes refered as "pure units"
 | Quantity              | Space         | Time          | Mass                 | Heat                  | Electrical Charge           | Light                 |
 | /Klari/ > /Kla/       | /Kaxi/ > /Ka/ | /Taxi/ > /Ta/ | /Maji/ > /Ma/        | /Hiara/ > /Hia/       | /Kiza/ > /Ki/               | /Lira/ > /Li/         |
 
+>[!note] Pronunciation Derivation
+>/Maji/, /Kiza/ and /Lira/ are derrived from the [[🪴 01b _ Elgia & Hinorean - RutTæk]] dialect
+
+---
+
 # Combining Units
 
 When Units are combined, you can end up with a different unit,

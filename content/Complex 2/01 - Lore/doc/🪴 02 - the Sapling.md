@@ -53,16 +53,16 @@ Different communities continued to develop their own ways of speaking.
 
 These became recognized dialects, including:
 - regional
-	- [[🪴 03 - Qionpa]]
-	- [[🐞 Elgia]]
-	- [[🐞 Logese]]
-	- [[🪴 03 - RutTæk]]
-	- [[🐞 Nyarato]]
+	- [[🪴 01a _ Qion - Qionpa]]
+	- [[🪴 01a _ Elgia - Elgiarian]]
+	- [[🪴 01a _ Logos - Logese]]
+	- [[🪴 01b _ Elgia & Hinorean - RutTæk]]
+	- [[🪴 01a _ Hinorian - Nyarato]]
 - species
-	- [[🐞 Hiureni]]
-	- [[🐞 Kæmaganæ]]
-	- [[🐞 Kainuqu]]
-	- [[🐞 Ariatovi]]
+	- [[🪴 02a _ Hiureni _ Human]]
+	- [[🪴 02a _ Kæmaganæ _ Felis]]
+	- [[🪴 02a _ Kainuqu _ Canids]]
+	- [[🪴 02a _ Ariatovi _ Avians]]
 
 Astralica became the common standard, while the dialects preserved parts of the cultures and identities that survived the old world.
 

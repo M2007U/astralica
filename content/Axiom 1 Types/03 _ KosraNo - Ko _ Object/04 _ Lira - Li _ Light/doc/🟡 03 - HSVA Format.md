@@ -135,7 +135,7 @@ Now we can append the Mix Level of the other primary colors
 | ^                       |       | 0.125     | 0.25      | 0.375     |                       | 0.625     | 0.75      | 0.875     |       |
 | Pronunciation Structure | $X_p$ | $X_p~Y_1$ | $X_p~Y_2$ | $X_p~Y_3$ | $X_p~Y_4$ / $Y_p~X_4$ | $Y_p~X_3$ | $Y_p~X_2$ | $Y_p~X_1$ | $Y_p$ |
 
->[!example] Colors for the [[🐞 Kæmaganæ]] Dialect
+>[!example] Colors for the [[🪴 02a _ Kæmaganæ _ Felis]] Dialect
 >
 >Cats only has 2 primary colors :
 >let $X = /Nyawawi/$ and $Y = /Makonyo/$
@@ -189,7 +189,7 @@ now for every tick, we can append the Mixing Level of the other primary colors.
 ## Hue Names : 4 primary colors (Tetrachromatic)
 
 Avians (Birds) can see 4 Primary colors, and so does some fishes.
-the [[🐞 Ariatovi]] Dialect uses this mechanism.
+the [[🪴 02a _ Ariatovi _ Avians]] Dialect uses this mechanism.
 According to the pattern : from a 1D Line, a 2D triangle, the next shape is a 3D tetrahedron.
 
 For the Hue Triangle (3-primary-colors) when a color is chosen inside the triangle, it can be projected on the vertices or the sides of the triangle and be saturated (except the middle point). In this case, we can treat the side of the triangle as the skin.
@@ -282,20 +282,20 @@ Now we can finally list what are the primary hues for different species :
 | Species & Dialect                                 | Primary Color |           | $Color_p$ | $Color_1$ | $Color_2$ | $Color_3$ | $Color_f$ |
 |                                                   | English       | Astralica | Dominant  | Mix1      | Mix2      | Mix3      | MixFull   |
 |                                                   |               |           |           |           |           |           |           |
-| Canids<br>*dogs, foxes, wolves*<br>[[🐞 Kainuqu]] |               |           |           |           |           |           |           |
+| Canids<br>*dogs, foxes, wolves*<br>[[🪴 02a _ Kainuqu _ Canids]] |               |           |           |           |           |           |           |
 |                                                   | Yellow        | /Yarafa/  | /Ya/      | /Yi/      | /Yæ/      | /Ya/      | /Ra/      |
 |                                                   | Blue          | /Wafusa/  | /Wa/      | /Wi/      | /Wæ/      | /Wa/      | /Fu/      |
 |                                                   |               |           |           |           |           |           |           |
-| Felis<br>*Cats, Tigers, Lions*<br>[[🐞 Kæmaganæ]] |               |           |           |           |           |           |           |
+| Felis<br>*Cats, Tigers, Lions*<br>[[🪴 02a _ Kæmaganæ _ Felis]] |               |           |           |           |           |           |           |
 |                                                   | Chartreuse    | /Nyawawi/ | /Nya/     | /Ni/      | /Nyæ/     | /Nya/     | /Wa/      |
 |                                                   | Indigo        | /Makonyo/ | /Ma/      | /Mi/      | /Mæ/      | /Ma/      | /Ko/      |
 |                                                   |               |           |           |           |           |           |           |
-| Homo-Sapien<br>*Humans*<br>[[🐞 Hiureni]]         |               |           |           |           |           |           |           |
+| Homo-Sapien<br>*Humans*<br>[[🪴 02a _ Hiureni _ Human]]         |               |           |           |           |           |           |           |
 |                                                   | Red           | /Rahaka/  | /Ra/      | /Ri/      | /Ræ/      | /Ra/      | /Ha/      |
 |                                                   | Green         | /Nawari/  | /Na/      | /Ni/      | /Næ/      | /Na/      | /Wa/      |
 |                                                   | Blue          | /Koqosa/  | /Ko/      | /Ki/      | /Kæ/      | /Ka/      | /Qo/      |
 |                                                   |               |           |           |           |           |           |           |
-| Avians<br>*Birds*<br>[[🐞 Ariatovi]]              |               |           |           |           |           |           |           |
+| Avians<br>*Birds*<br>[[🪴 02a _ Ariatovi _ Avians]]              |               |           |           |           |           |           |           |
 |                                                   | Red           | /Haraka/  | /Ha/      | /Hi/      | /Hæ/      | /Ha/      | /Ra/      |
 |                                                   | Green         | /Kafaxa/  | /Ka/      | /Ki/      | /Kæ/      | /Ka/      | /Fa/      |
 |                                                   | Blue          | /Gæhofu/  | /Gæ/      | /Gi/      | /Gæ/      | /Ga/      | /Ho/      |

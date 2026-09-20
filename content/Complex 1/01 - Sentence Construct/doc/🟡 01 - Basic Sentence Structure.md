@@ -60,7 +60,7 @@ if there are no Særia-Markers *(i.e. all Særia-Markers are omited)*, then the 
 
 ## Passive Voice and other choices
 
-both [[🐞 Forutaxi]] and [[🐞 Tækizamæ]] handles this differently
+both [[🪴 02b _ Forutaxi _ Flesh]] and [[🪴 02b _ Tækizamæ _ Cyborg & Electronics]] handles this differently
 
 ### Forutaxi
 

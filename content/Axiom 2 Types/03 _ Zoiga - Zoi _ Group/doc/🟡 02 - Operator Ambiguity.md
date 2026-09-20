@@ -3,7 +3,7 @@ If the sentence is simple enough such that we do not end up with ambiguity, then
 sometimes to avoid ambiguity, different dialect uses different solutions
 
 
-## [[🐞 Forutaxi]] Dialect : InFix
+## [[🪴 02b _ Forutaxi _ Flesh]] Dialect : InFix
 
 these folks evolves naturally, and therefore pickup what most natural languages has : infix
 some operator will have a "left side", "separator" and "right side"
@@ -50,7 +50,7 @@ in this case we can use the mechanism to state both situations :
 
 ---
 
-## [[🐞 Tækizamæ]]  Dialect : Reverse Polish Notation
+## [[🪴 02b _ Tækizamæ _ Cyborg & Electronics]]  Dialect : Reverse Polish Notation
 
 these folks has computer based memories, this includes : stacks, which is perfect for reverse polish notation
 
