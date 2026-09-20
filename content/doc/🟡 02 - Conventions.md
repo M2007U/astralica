@@ -3,7 +3,7 @@
 	- 🟡 Concrete Mechanisms or Concepts
 	- 🔵 Jaxitæ words
 	- 🪴 Lores and Stories
-	- 🐞 incomplete concepts or documents
+	- 🐞 incomplete concepts or documents, or concepts that contains problems and bugs
 	- 😎 documents that are meant for reminders but not meant to be published
 - **word pronunciations**
 	- Astralica pronunciations will be in between slashes

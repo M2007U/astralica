@@ -3,10 +3,10 @@ so far,
 there are no natural language able to pin point a certain body part with pattern,
 even if the individual is structured like a tree, say us : Humans
 
-|                             |                      |     |                                                                                                                          |
-| :-------------------------: | :------------------: | --- | ------------------------------------------------------------------------------------------------------------------------ |
-| ![[KosraNi - thin.png\|50]] |  ![[zoiga.png\|50]]  |     |                                                                                                                          |
-|              ^              | ![[KaxiTae.png\|25]] |     | ![[c-63-k.png\|25]]![[v-321-o.png\|50]]![[v-160-i.png\|50]]![[c-32-z.png\|25]]  ![[c-54-t.png\|25]]![[v-660-ae.png\|50]] |
+|                             |                                            |     |                                                                                                                          |
+| :-------------------------: | :----------------------------------------: | --- | ------------------------------------------------------------------------------------------------------------------------ |
+| ![[KosraNi - thin.png\|50]] | ![[zoiga.png\|50]]<br>![[KaxiTae.png\|25]] |     | ![[c-63-k.png\|25]]![[v-321-o.png\|50]]![[v-160-i.png\|50]]![[c-32-z.png\|25]]  ![[c-54-t.png\|25]]![[v-660-ae.png\|50]] |
+
 
 >[!note] Pronunciation Derivation
 >[[🟡 01 _ KosraNi - Koi - Living Beings]] : "it is for a living being"
@@ -56,19 +56,23 @@ Here we will use Human as an example.
 | Left Lower Limb (Left Leg)   | /TæRæ/        |
 | Right Lower Limb (Right Leg) | /TæRa/        |
 when writing, we use /KaxiRo/, /KaxiTa/, /KaxiTæ/, /KaxiRa/, /KaxiRæ/ from [[🟡 01 _ Kaxi - Ka _ Space]]
-#### STEP 2 : specify the index of the bodyPart :
+#### STEP 2 : specify the index of the body Parts :
 
-|            |      |       |           |          |                  |              |                 |          |          |
-| ---------- | ---- | ----- | --------- | -------- | ---------------- | ------------ | --------------- | -------- | -------- |
-| **Region** | <    | <     | **index** | <        | <                | <            | <               | <        | <        |
-| ^          | <    | <     | **/No/**  | **/Ni/** | **/Næ/**         | **/Na/**     | **/Lo/**        | **/Li/** | **/Læ/** |
-| CS         | /Ro/ | <     | Head      | Neck     | Sternal Manubrim | Chest / Back | Stomach / Waist | Pelvis   |          |
-| LU         | /Ta/ | /Ræ/  | Clavicle  | Shoulder | Upper Arm        | Elbow        | Lower Arm       | Wrist    | Hand     |
-| Both       | ^    | /Raæ/ | ^         | ^        | ^                | ^            | ^               | ^        | ^        |
-| RU         | ^    | /Ra/  | ^         | ^        | ^                | ^            | ^               | ^        | ^        |
-| LD         | /Tæ/ | /Ræ/  | Thigh     | Knee     | Calf             | Ankle        | Foot            |          |          |
-| Both       | ^    | /Raæ/ | ^         | ^        | ^                | ^            | ^               |          |          |
-| RD         | ^    | /Ra/  | ^         | ^        | ^                | ^            | ^               |          |          |
+
+| **Region**       |         |     | **index**      |                |                  |              |                 |             |            |
+| ---------------- | ------- | --- | -------------- | -------------- | ---------------- | ------------ | --------------- | ----------- | ---------- |
+|                  |         |     | **/No/**       | **/Ni/**       | **/Næ/**         | **/Na/**     | **/Lo/**        | **/Li/**    | **/Læ/**   |
+|                  |         |     |                |                |                  |              |                 |             |            |
+| **Center Spine** | /Ro/    |     | Head           | Neck           | Sternal Manubrim | Chest / Back | Stomach / Waist | Pelvis      |            |
+|                  |         |     |                |                |                  |              |                 |             |            |
+| **Upper Left**   | /TaRæ/  |     | Left Clavicle  | Left Shoulder  | Left Upper Arm   | Left Elbow   | Left Lower Arm  | Left Wrist  | Left Hand  |
+| **Upper**        | /TaRaæ/ |     | Clavicles      | Shoulders      | Upper Arms       | Elbows       | Lower Arms      | Wrists      | Hands      |
+| **Upper Right**  | /TaRa/  |     | Right Clavicle | Right Shoulder | Right Upper Arm  | Right Elbow  | Right Lower Arm | Right Wrist | Right Hand |
+|                  |         |     |                |                |                  |              |                 |             |            |
+| **Lower Left**   | /TæRæ/  |     | Left Thigh     | Left Knee      | Left Calf        | Left Ankle   | Left Foot       |             |            |
+| **Lower**        | /TæRaæ/ |     | Thighs         | Knees          | Calves           | Ankles       | Feet            |             |            |
+| **Lower Right**  | /TæRa/  |     | Right Thigh    | Right Knee     | Right Calf       | Right Ankle  | Right Foot      |             |            |
+
 
 >[!example]
 >Head : /Koiztæ-Kio-RoNo/
@@ -102,17 +106,17 @@ Eyes, mouths, ears, etc, these are too difficult to insert them into the /Koizt�
 in this case, we can treat our head as a globe, with Longitude (Left-Right direction) and latitude (Up-Down Direction) 
 here, every word will have the /Koiztæ-Kio-Ro-Wa/ prefix, unless context is given​​
 
-|        | /RaLo/ | /RaNa/ | /RaNæ/                    | /RaNi/                   | /Ro/                 | /RæNi/                  | /RæNæ/                   | /RæNa/ | /RæLo/ |
-| ------ | ------ | ------ | ------------------------- | ------------------------ | -------------------- | ----------------------- | ------------------------ | ------ | ------ |
-| /TaLo/ |        |        |                           |                          | /RoTalo/ "Top Head"  |                         |                          |        |        |
-| /TaNa/ |        |        |                           |                          |                      |                         |                          |        |        |
-| /TaNæ/ |        |        |                           |                          |                      |                         |                          |        |        |
-| /TaNi/ |        |        | /RanæTani/ "Right Temple" |                          | /RoTani/ "Fore Head" |                         | /RænæTani/ "Left Temple" |        |        |
-| /To/   |        |        | /RanæTo/ "Right Ear"      | /RaniTo/ "Right Eye"     | /RoTo/ "Nose Ridge"  | /RæniTo/ "Left Eye"     | /RænæTo/ "Left Ear"      |        |        |
-| /TæNi/ |        |        |                           |                          | /RoTæni/ "Nose"      |                         |                          |        |        |
-| /TæNæ/ |        |        |                           |                          |                      |                         |                          |        |        |
-| /TæNa/ |        |        |                           | /RaniTæna/ "Right Cheek" | /RoTæna/ "Mouth"     | /RæniTæna/ "Left Cheek" |                          |        |        |
-| /TæLo/ |        |        |                           |                          |                      |                         |                          |        |        |
+|                 | /RaLo/<br>(-4) | /RaNa/<br>(-3) | /RaNæ/<br>(-2)            | /RaNi/<br>(-1)           | /Ro/<br>(0)          | /RæNi/<br>(1)           | /RæNæ/<br>(2)            | /RæNa/<br>(3) | /RæLo/<br>(4) |
+| --------------- | -------------- | -------------- | ------------------------- | ------------------------ | -------------------- | ----------------------- | ------------------------ | ------------- | ------------- |
+| **/TaLo/ (4)**  |                |                |                           |                          | /RoTalo/ "Top Head"  |                         |                          |               |               |
+| **/TaNa/ (3)**  |                |                |                           |                          |                      |                         |                          |               |               |
+| **/TaNæ/ (2)**  |                |                |                           |                          |                      |                         |                          |               |               |
+| **/TaNi/ (1)**  |                |                | /RanæTani/ "Right Temple" |                          | /RoTani/ "Fore Head" |                         | /RænæTani/ "Left Temple" |               |               |
+| **/To/ (0)**    |                |                | /RanæTo/ "Right Ear"      | /RaniTo/ "Right Eye"     | /RoTo/ "Nose Ridge"  | /RæniTo/ "Left Eye"     | /RænæTo/ "Left Ear"      |               |               |
+| **/TæNi/ (-1)** |                |                |                           |                          | /RoTæni/ "Nose"      |                         |                          |               |               |
+| **/TæNæ/ (-2)** |                |                |                           |                          |                      |                         |                          |               |               |
+| **/TæNa/ (-3)** |                |                |                           | /RaniTæna/ "Right Cheek" | /RoTæna/ "Mouth"     | /RæniTæna/ "Left Cheek" |                          |               |               |
+| **/TæLo/ (-4)** |                |                |                           |                          |                      |                         |                          |               |               |
 
 >[!note]
 >just because we left some of the cells empty doesn't mean we cannot translate into Astralica, instead it is the other around : /RanaTænæ/ cannot be translated to other languages
@@ -145,19 +149,21 @@ here's what every segment that uses Kiara mechanism looks roughly like :
 here are some of the examples :
 
 
-|                                           |                           |     |                                             |                      |     |                                              |                               |     |                                            |                      |
-| ----------------------------------------- | ------------------------- | --- | ------------------------------------------- | -------------------- | --- | -------------------------------------------- | ----------------------------- | --- | ------------------------------------------ | -------------------- |
-| ![[Kiara.png\|50]]                        | ![[Request.png\|50]]      |     | ![[Kiara.png\|50]]                          | ![[Request.png\|50]] |     | ![[Kiara.png\|50]]                           | ![[Request.png\|50]]          |     | ![[Kiara.png\|50]]                         | ![[Respond.png\|50]] |
-| ^                                         | ![[KosraNo_Lira.png\|50]] |     | ^                                           | ![[Haekios.png\|50]] |     | ^                                            | ![[05 - KoLi - Gas.png\|50]] |     | ^                                          | ![[Haekios.png\|50]] |
-| /Kia-SvaLi/<br>"Request Light" <br> "Eye" | <                         |     | /Kia-SvaHæ/ <br> "Request Sound" <br> "Ear" | <                    |     | /Kia-SvaKoli/ <br> "Request Air" <br> "Nose" | <                             |     | /Kia-SvæHæ/ <br> "Emit Sound" <br> "Mouth" | <                    |
+|                    |                                                      |     |                                              |
+| ------------------ | ---------------------------------------------------- | --- | -------------------------------------------- |
+| ![[Kiara.png\|50]] | ![[Request.png\|50]]<br>![[KosraNo_Lira.png\|50]]    |     | /Kia-SvaLi/<br>"Request Light" <br> "Eye"    |
+| ![[Kiara.png\|50]] | ![[Request.png\|50]]<br>![[Haekios.png\|50]]         |     | /Kia-SvaHæ/ <br> "Request Sound" <br> "Ear"  |
+| ![[Kiara.png\|50]] | ![[Request.png\|50]]<br>![[05 - KoLi - Gas.png\|50]] |     | /Kia-SvaKoli/ <br> "Request Air" <br> "Nose" |
+| ![[Kiara.png\|50]] | ![[Respond.png\|50]]<br>![[Haekios.png\|50]]         |     | /Kia-SvæHæ/ <br> "Emit Sound" <br> "Mouth"   |
 
 sometimes, the same organ has different names based on situation or context, example : a mouth can speak, drink and eat
 
-|                               |                      |     |                                     |                                  |     |                                    |                                 |
-| ----------------------------- | -------------------- | --- | ----------------------------------- | -------------------------------- | --- | ---------------------------------- | ------------------------------- |
-| ![[Kiara.png\|50]]            | ![[Respond.png\|50]] |     | ![[Kiara.png\|50]]                  | ![[Request.png\|50]]             |     | ![[Kiara.png\|50]]                 | ![[Request.png\|50]]            |
-| ^                             | ![[Haekios.png\|50]] |     | ^                                   | ![[06 - KoLæ - Liquid.png\|50]] |     | ^                                  | ![[07 - KoLa - Solid.png\|50]] |
-| /Kia-SvæHæ/ <br> "Emit Sound" |                      |     | /Kia-SvaKolæ/ <br> "Request Liquid" |                                  |     | /Kia-SvaKola/ <br> "Request Solid" |                                 |
+|                    |                                                         |     |                                     |
+| ------------------ | ------------------------------------------------------- | --- | ----------------------------------- |
+| ![[Kiara.png\|50]] | ![[Respond.png\|50]]<br>![[Haekios.png\|50]]            |     | /Kia-SvæHæ/ <br> "Emit Sound"       |
+| ![[Kiara.png\|50]] | ![[Request.png\|50]]<br>![[06 - KoLæ - Liquid.png\|50]] |     | /Kia-SvaKolæ/ <br> "Request Liquid" |
+| ![[Kiara.png\|50]] | ![[Request.png\|50]]<br>![[07 - KoLa - Solid.png\|50]]  |     | /Kia-SvaKola/ <br> "Request Solid"  |
+
 
 ---
 
@@ -166,6 +172,11 @@ sometimes, the same organ has different names based on situation or context, exa
 ## Furs, Hairs
 
 the easy solution here is to simply add "fu" the at end.
+
+>[!example] eyelashes
+>first, navigate to eye : /Koiztæ - Kio - RoNo - Wa - RaniTo/
+>then add "fu" at the end, then we will have : /Koiztæ - Kio - RoNo - Wa - RaniTo - Fu/
+
 
 ---
 
