@@ -121,7 +121,7 @@ while( pedestrainLight.color === "red" )
 ```
 
 and now we can convert this into Astralica
-here we use [[🟡 01 _ Jusaihak - Ju _ Cycle]]
+here we use [[🟡 Jusaihak - Ju _ Cycle]]
 
 ```
 SæjuRæ
@@ -183,3 +183,13 @@ SæjuNæ
 | ![[Saeyanae.png\|25]]<br>![[Jusaihak.png\|12]]<br>![[pfr_0.png\|25]] | /Sæyanæ - Jusaihak - No/<br>/SæjuNo/ | start forloop and provide repeat quantity |
 | ![[Saeyanae.png\|25]]<br>![[Jusaihak.png\|12]]<br>![[pfr_1.png\|25]] | /Sæyanæ - Jusaihak - Ni/<br>/SæjuNi/ | provide predicates                        |
 | ![[Saeyanae.png\|25]]<br>![[Jusaihak.png\|12]]<br>![[pfr_2.png\|25]] | /Sæyanæ - Jusaihak - Næ/<br>/SæjuNæ/ | end forloop                               |
+
+---
+
+# Sæyanæ - Jusaihak - Klani > Sæju - Klani
+
+basically this is an adjective to describe something to happen again
+
+>[!bug] 
+>when Math has addition, it will be something like "+1"
+

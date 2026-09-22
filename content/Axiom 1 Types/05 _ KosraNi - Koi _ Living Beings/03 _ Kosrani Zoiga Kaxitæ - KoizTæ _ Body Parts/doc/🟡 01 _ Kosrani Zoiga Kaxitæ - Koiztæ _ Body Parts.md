@@ -142,12 +142,13 @@ In this mechanism, we can think of 2 aspects :
 
 here's what every segment that uses Kiara mechanism looks roughly like :
 
-|                    |                                              |
-| ------------------ | -------------------------------------------- |
-| ![[Kiara.png\|50]] | ![[Request.png\|50]] or ![[Respond.png\|50]] |
-| ^                  | **slot : what it is dealing with ?**         |
-here are some of the examples :
+|                    |                                                                                          |
+| ------------------ | ---------------------------------------------------------------------------------------- |
+| ![[Kiara.png\|50]] | ![[Request.png\|50]] or ![[Respond.png\|50]]<br>![[AstralicaSlots_Number-1.png\|50]]<br> |
 
+where slot 1 : what the organ / body parts dealing with
+
+here are some of the examples :
 
 |                    |                                                      |     |                                              |
 | ------------------ | ---------------------------------------------------- | --- | -------------------------------------------- |
@@ -188,10 +189,10 @@ right now let's say we want to say "Right Eye"
 we can then do the Following :
 
 
-|                             |                      |                          |                     |                    |                     |                     |                    |                     |
-| :-------------------------: | :------------------: | :----------------------: | :-----------------: | ------------------ | ------------------- | ------------------- | ------------------ | ------------------- |
-| ![[KosraNi - thin.png\|50]] |  ![[zoiga.png\|50]]  | ![[Kio_0-Tree.png\|100]] | ![[KaxiKo.png\|50]] | ![[pfr_0.png\|50]] | ![[Warak.png\|100]] | ![[KaxiRa.png\|50]] | ![[pfr_1.png\|50]] | ![[KaxiKo.png\|50]] |
-|              ^              | ![[KaxiTae.png\|25]] |            ^             |          ^          | ^                  | ^                   | ^                   | ^                  | ^                   |
+|                             |                                            |                          |                     |                    |                     |                     |                    |                     |
+| :-------------------------: | :----------------------------------------: | :----------------------: | :-----------------: | ------------------ | ------------------- | ------------------- | ------------------ | ------------------- |
+| ![[KosraNi - thin.png\|50]] | ![[zoiga.png\|50]]<br>![[KaxiTae.png\|25]] | ![[Kio_0-Tree.png\|100]] | ![[KaxiKo.png\|50]] | ![[pfr_0.png\|50]] | ![[Warak.png\|100]] | ![[KaxiRa.png\|50]] | ![[pfr_1.png\|50]] | ![[KaxiKo.png\|50]] |
+
 /Koiztæ - Kio - RoNo - Wa - RaniTo/
 "Body Part - Use Kikuo - CenterSpine 0thNode - Use Warak - Right 1 Middle"
 

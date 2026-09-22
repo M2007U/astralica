@@ -56,6 +56,20 @@ here are a some examples
 
 ---
 
+# 🔗 the Relic
+
+most of migration of Astralica from Wix to Obsidian has been complete
+but sometimes there are things to look back and check for record
+just in case if we need it, here is the link back to the Wix Documentation
+however, just to state it here :
+
+**the Astralica Pure Wix Documentation is DEPRECATED**
+https://memo2007ultra.wixsite.com/m27u-astralica
+
+
+
+---
+
 
 ## 🙂 Special Thanks
 

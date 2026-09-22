@@ -20,14 +20,14 @@ these are all composite numbers, which can be achieved by multiplying 2 or more 
 - E is made from 7 and 2,
 - F is made from 5 and 3.
 
-|                                    |                                     |                                       |                                     |                                     |
-| ---------------------------------- | ----------------------------------- | ------------------------------------- | ----------------------------------- | ----------------------------------- |
-| ![[pfr_0.png\|50]]0                | ![[pfr_1.png\|50]]1                 |                                       |                                     |                                     |
-| ![[pfr_2.png\|50]]$2^1 = 2$        | ![[pfr_4.png\|50]]$2^2 = 4$         | ![[pfr_8.png\|50]]$2^3 = 8$           |                                     |                                     |
-| ![[pfr_3.png\|50]]$3^1 = 3$        | ![[pfr_9.png\|50]]$3^2 = 9$         |                                       |                                     |                                     |
-| ![[pfr_5.png\|50]]5                |                                     |                                       |                                     |                                     |
-| ![[pfr_6.png\|50]]$2 \times 3 = 6$ | ![[pfr_A.png\|50]]$2 \times 5 = 10$ | ![[pfr_C.png\|50]]$2^2 \times 3 = 12$ | ![[pfr_E.png\|50]]$2 \times 7 = 14$ | ![[pfr_F.png\|50]]$3 \times 5 = 15$ |
-| ![[pfr_7.png\|50]]7                | ![[pfr_B.png\|50]]11                | ![[pfr_D.png\|50]]13                  |                                     |                                     |
+|                                        |                                         |                                           |                                         |                                         |
+| -------------------------------------- | --------------------------------------- | ----------------------------------------- | --------------------------------------- | --------------------------------------- |
+| ![[pfr_0.png\|50]]<br>0                | ![[pfr_1.png\|50]]<br>1                 |                                           |                                         |                                         |
+| ![[pfr_2.png\|50]]<br>$2^1 = 2$        | ![[pfr_4.png\|50]]<br>$2^2 = 4$         | ![[pfr_8.png\|50]]<br>$2^3 = 8$           |                                         |                                         |
+| ![[pfr_3.png\|50]]<br>$3^1 = 3$        | ![[pfr_9.png\|50]]<br>$3^2 = 9$         |                                           |                                         |                                         |
+| ![[pfr_5.png\|50]]<br>5                |                                         |                                           |                                         |                                         |
+| ![[pfr_6.png\|50]]<br>$2 \times 3 = 6$ | ![[pfr_A.png\|50]]<br>$2 \times 5 = 10$ | ![[pfr_C.png\|50]]<br>$2^2 \times 3 = 12$ | ![[pfr_E.png\|50]]<br>$2 \times 7 = 14$ | ![[pfr_F.png\|50]]<br>$3 \times 5 = 15$ |
+| ![[pfr_7.png\|50]]<br>7                | ![[pfr_B.png\|50]]<br>11                | ![[pfr_D.png\|50]]<br>13                  |                                         |                                         |
 
 >[!warning] But why do we have this script ?
 > The Prime Factor Script plays an important role in future chapters, as they are a part of grammatic glyph/symbol construction. the PrimeFactorScript will be combined with other linguistic characters to make other characters

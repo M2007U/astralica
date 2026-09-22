@@ -1,3 +1,3 @@
 noun
-1. croissaint
+1. croissaint, a type of [[🔵 pon]]
 
