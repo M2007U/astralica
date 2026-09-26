@@ -57,16 +57,13 @@ $$
 
 "length", "width", "height", "thickness", "area", "volume". These are nouns describing the quantity of space. Here are the Astralica equivalent :
 
-|                        |                           |                       |                       |                    |                           |                           |                    |                                     |
-| ---------------------- | ------------------------- | --------------------- | --------------------- | ------------------ | ------------------------- | ------------------------- | ------------------ | ----------------------------------- |
-| ![[Kaxi-thin.png\|50]] | ![[Klari_Square.png\|50]] | length<br>/Ka-Kla-Ni/ | ![[KaxiRaae.png\|50]] | ![[Klari.png\|50]] | width<br>/Ka-Kla-Raæ/     | ![[KaxiTaaeKaae.png\|50]] | ![[Klari.png\|50]] | area (UDFB)<br>/Ka-Kla-TaæKaæ/      |
-| ^                      | ![[pfr_1.png\|50]]        | ^                     | ^                     | ^                  | ^                         | ^                         | ^                  | ^                                   |
-| -                      |                           |                       |                       |                    |                           |                           |                    |                                     |
-| ![[Kaxi-thin.png\|50]] | ![[Klari_Square.png\|50]] | area<br>/Ka-Kla-Næ/   | ![[KaxiTaae.png\|50]] | ![[Klari.png\|50]] | height<br>/Ka-Kla-Taæ/    | ![[KaxiRaaeKaae.png\|50]] | ![[Klari.png\|50]] | area(Horizontal)<br>/Ka-Kla-RaæKaæ/ |
-| ^                      | ![[pfr_2.png\|50]]        | ^                     | ^                     | ^                  | ^                         | ^                         | ^                  | ^                                   |
-| -                      |                           |                       |                       |                    |                           |                           |                    |                                     |
-| ![[Kaxi-thin.png\|50]] | ![[Klari_Square.png\|50]] | volume<br>/Ka-Kla-Na/ | ![[KaxiKaae.png\|50]] | ![[Klari.png\|50]] | thickness<br>/Ka-Kla-Kaæ/ | ![[KaxiRaaeTaae.png\|50]] | ![[Klari.png\|50]] | area (canvas)<br>/Ka-Kla-RaæTaæ/    |
-| ^                      | ![[pfr_3.png\|50]]        | ^                     | ^                     | ^                  | ^                         | ^                         | ^                  | ^                                   |
+|                        |                                                 |                       |                       |                    |                           |                           |                    |                                     |
+| ---------------------- | ----------------------------------------------- | --------------------- | --------------------- | ------------------ | ------------------------- | ------------------------- | ------------------ | ----------------------------------- |
+| ![[Kaxi-thin.png\|50]] | ![[Klari_Square.png\|50]]<br>![[pfr_1.png\|50]] | length<br>/Ka-Kla-Ni/ | ![[KaxiRaae.png\|50]] | ![[Klari.png\|50]] | width<br>/Ka-Kla-Raæ/     | ![[KaxiTaaeKaae.png\|50]] | ![[Klari.png\|50]] | area (UDFB)<br>/Ka-Kla-TaæKaæ/      |
+| -                      |                                                 |                       |                       |                    |                           |                           |                    |                                     |
+| ![[Kaxi-thin.png\|50]] | ![[Klari_Square.png\|50]]<br>![[pfr_2.png\|50]] | area<br>/Ka-Kla-Næ/   | ![[KaxiTaae.png\|50]] | ![[Klari.png\|50]] | height<br>/Ka-Kla-Taæ/    | ![[KaxiRaaeKaae.png\|50]] | ![[Klari.png\|50]] | area(Horizontal)<br>/Ka-Kla-RaæKaæ/ |
+| -                      |                                                 |                       |                       |                    |                           |                           |                    |                                     |
+| ![[Kaxi-thin.png\|50]] | ![[Klari_Square.png\|50]]<br>![[pfr_3.png\|50]] | volume<br>/Ka-Kla-Na/ | ![[KaxiKaae.png\|50]] | ![[Klari.png\|50]] | thickness<br>/Ka-Kla-Kaæ/ | ![[KaxiRaaeTaae.png\|50]] | ![[Klari.png\|50]] | area (canvas)<br>/Ka-Kla-RaæTaæ/    |
 
 ---
 
@@ -74,10 +71,13 @@ $$
 
 >[!example] after all of that, here is an example :
 >
-|                           |                    |                           |                    |
-| ------------------------- | ------------------ | ------------------------- | ------------------ |
-| ![[KaxiRaaeKaae.png\|50]] | ![[Klari.png\|50]] | ![[pfr_3.png\|50]]        | <                  |
-| ^                         | ^                  | ![[KosraNo_Lira.png\|50]] | <                  |
-| ^                         | ^                  | ![[pfr_1.png\|50]]        | ![[pfr_0.png\|50]] |
+|                           |                    |
+| ------------------------- | ------------------ |
+|![[empty_128.png\|25]]<br> ![[KaxiRaaeKaae.png\|50]]![[Klari.png\|50]] | ![[pfr_3.png\|50]]<br>![[KosraNo_Lira.png\|50]]<br> ![[pfr_1.png\|50]]![[pfr_0.png\|50]] | 
+
 "Along the Horizontal surface, 1/16 of LiraMeter^2"
+
+
+
+
 

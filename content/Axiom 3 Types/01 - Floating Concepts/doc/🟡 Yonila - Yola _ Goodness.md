@@ -30,3 +30,22 @@ here we flip /a/ to /u/ to show the total opposite of Good
 
 
 
+---
+
+## Greetings
+
+different languages or cultures greet people with different ways. Here is how Astralica mostly handles it :
+
+|                                               |     |                                                       |                                                                |                     |                                                            |                                            |                                                   |     |                                                       |                                                                |
+| :-------------------------------------------: | :-: | :---------------------------------------------------: | :------------------------------------------------------------: | :-----------------: | :--------------------------------------------------------: | :----------------------------------------: | ------------------------------------------------- | --- | ----------------------------------------------------- | -------------------------------------------------------------- |
+| ![[Taega - thin.png\|30]]![[KaxiRae.png\|30]] |     | ![[KosraNi - thin.png\|30]]![[Xiraef - thin.png\|30]] | ![[stk_1.png\|20]]<br>![[stk_0.png\|20]]<br>![[stk_0.png\|20]] |                     | ![[verb_modern - thin.png\|30]]![[KosraNi - thin.png\|30]] | ![[zoiga.png\|30]]<br>![[KaxiTae.png\|15]] | ![[Request.png\|30]]<br>![[KosraNo_Lira.png\|30]] |     | ![[KosraNi - thin.png\|30]]![[Xiraef - thin.png\|30]] | ![[stk_0.png\|20]]<br>![[stk_1.png\|20]]<br>![[stk_0.png\|20]] |
+|                                               |     |                                                       |                                                                |                     |                                                            |                                            |                                                   |     |                                                       |                                                                |
+| ![[Taega - thin.png\|30]]![[KaxiRa.png\|30]]  |     |       ![[Kosra.png\|30]]<br>![[pfr_1.png\|30]]        |                                                                | ![[Yonila.png\|30]] |                                                            |                                            |                                                   |     |                                                       |                                                                |
+
+/Tæræf Koix-ino Kruoiztæ-Svali Koix-oni Tæraf Svik Yola/
+"Seeing you is good"
+but yes, this is too long, so to crop it, or turn it into an abbv, we have
+/Svali Koixoni Yola/
+this is not a grammatical sentence, but a greeting.
+
+

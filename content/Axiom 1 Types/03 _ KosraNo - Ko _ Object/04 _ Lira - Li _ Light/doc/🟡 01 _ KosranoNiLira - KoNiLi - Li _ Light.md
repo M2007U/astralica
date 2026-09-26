@@ -46,13 +46,13 @@ Here the slot will be a number, where this number is the index of the agreed fre
 
 
 >[!example]
->For the Human Dialect, it is defined that
+>For the [[🪴 02a _ Hiureni _ Human]] Dialect, it is defined that
 > /Li - Ta - No/ would be "Red", or /Rahaka/
 > /Li - Ta - Ni/ would be "Green", or /Nawari/
 > /Li - Ta - Næ/ would be "Blue", or /Koqosa/
 
 >[!example]
->For the Cat Dialect, it is defined that
+>For the [[🪴 02a _ Kæmaganæ _ Felis]] Dialect, it is defined that
 > /Li - Ta - No/ would be "Chartreuse", or /Nyawawi/
 > /Li - Ta - Ni/ would be "Indigo", or /Makonyo/
 

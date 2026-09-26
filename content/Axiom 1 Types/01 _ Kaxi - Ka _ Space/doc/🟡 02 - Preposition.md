@@ -3,10 +3,9 @@ Standing in a line, Pointing on a paper, chilling in a room, your right hand, th
 
 Here we have a few slots to fill in order to provide enough information.
 
-|                    |                |
-| ------------------ | -------------- |
-| ![[Kaxi-thin.png\|50]] | **Slot 1**     |
-| ^                  | **Slot 2**<br> |
+|                        |                                                                              |
+| ---------------------- | ---------------------------------------------------------------------------- |
+| ![[Kaxi-thin.png\|50]] | ![[AstralicaSlots_Number-1.png\|50]]<br>![[AstralicaSlots_Number-2.png\|50]] |
 
 ## Slot 1 : Area Specification
 
@@ -53,6 +52,6 @@ By attaching the number of Dimensions we are dealing with by using Prime Factor 
 > 
 >|     |     |
 >| --- | --- |
->| ![[KaxiRa.png\|50]]    |  ![[Circle1.png\|50]]   |
->|^| ![[pfr_3.png\|50]] |
+>| ![[KaxiRa.png\|50]]    |  ![[Circle1.png\|50]]<br> ![[pfr_3.png\|50]]   |
+
 

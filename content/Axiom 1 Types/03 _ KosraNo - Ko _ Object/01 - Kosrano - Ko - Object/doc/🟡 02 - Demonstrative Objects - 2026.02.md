@@ -13,6 +13,12 @@ and here are the index
 | Not visible | There | /l/ | ...  | ...      | ...  | ...    |
 | Visible     | Here  | /d/ | ...  | ...      | ...  | ...    |
 | Visible     | There | /t/ | ...  | ...      | ...  | ...    |
+and once the index is chosen, we can fill in the blank where slot 1 is the index.
+
+|                           |                                                             |
+| ------------------------- | ----------------------------------------------------------- |
+| ![[KosraNo_Thin.png\|50]] | ![[Xiraef.png\|50]]<br>![[AstralicaSlots_Number-1.png\|50]] |
+
 
 >[!bug] for now, "Qty = None" seems redundant or unfeasible for now, but we will leave this here, if in future updates such that this can be used in some way, we can use it
 

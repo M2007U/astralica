@@ -184,11 +184,11 @@ where a time segment pronunciation order is :
 >1 year 2 months 3 days 4 hours 5 minutes 6 seconds, on earth
 >
 
-|                                          |                                               |                                           |                                                                  |                                                                  |                                                                 |
-| ---------------------------------------- | --------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------- |
-|                                          | ![[Saeyanae.png\|50]]<br>![[Respond.png\|50]] | ![[Kosra - thin.png\|50]]                 |                                                                  |                                                                  |                                                                 |
-| ![[Taxi-thin.png\|50]]![[Klari.png\|50]] |                                               | ![[Kaxi.png\|50]]<br>                     | ![[stk_1.png\|50]]<br>![[Circle2.png\|50]]<br>![[stk_2.png\|50]] | ![[stk_3.png\|50]]<br>![[Circle0.png\|50]]<br>![[stk_4.png\|50]] | ![[stk_5.png\|50]]<br>![[TaxiLa.png\|50]]<br>![[stk_6.png\|50]] |
-|                                          | ![[v-440-e.png\|50]]                          | ![[c-83-r-EN.png\|25]]![[c-21-f.png\|25]] |                                                                  |                                                                  |                                                                 |
+|                                                                    |                                               |                                                 |                                                                  |                                                                  |                                                                 |
+| ------------------------------------------------------------------ | --------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------- |
+|                                                                    | ![[Saeyanae.png\|50]]<br>![[Respond.png\|50]] | ![[Kosra - thin.png\|50]]                       |                                                                  |                                                                  |                                                                 |
+| ![[empty_128.png\|25]]<br>![[Taxi-thin.png\|50]]![[Klari.png\|50]] |                                               | ![[empty_128.png\|50]]<br>![[Kaxi.png\|50]]<br> | ![[stk_1.png\|50]]<br>![[Circle2.png\|50]]<br>![[stk_2.png\|50]] | ![[stk_3.png\|50]]<br>![[Circle0.png\|50]]<br>![[stk_4.png\|50]] | ![[stk_5.png\|50]]<br>![[TaxiLa.png\|50]]<br>![[stk_6.png\|50]] |
+|                                                                    | ![[v-440-e.png\|50]]                          | ![[c-83-r-EN.png\|25]]![[c-21-f.png\|25]]       |                                                                  |                                                                  |                                                                 |
 
 /Ta - Kla - æRi - NiRuNæ - æRu - NaRuLo - æRuRu - LiRuLæ/
 
@@ -209,12 +209,12 @@ these provides when things are happening (or happened)
 in Astralica, since these words has a "taste" of direction,
 the marker is used on the Kaxi symbol
 
+|                                            |           |                |
+| ------------------------------------------ | --------- | -------------- |
+| ![[Taxi-thin.png\|50]]![[KaxiKae.png\|50]] | /Ta-Kakæ/ | before / Past  |
+| ![[Taxi-thin.png\|50]]![[KaxiKo.png\|50]]  | /Ta-Kako/ | now / Present  |
+| ![[Taxi-thin.png\|50]]![[KaxiKa.png\|50]]  | /Ta-Kaka/ | after / Future |
 
-|                    |                  |                             |
-| ------------------ | ---------------- | --------------------------- |
-| ![[Taxi-thin.png]] | ![[KaxiKae.png]] | before / Past<br>/Ta-Kakæ/  |
-| ![[Taxi-thin.png]] | ![[KaxiKo.png]]  | now / Present<br>/Ta-Kako/  |
-| ![[Taxi-thin.png]] | ![[KaxiKa.png]]  | after / Future<br>/Ta-Kaka/ |
 
 >[!hint]
 >you can also attach time segments to show how much time in that direction

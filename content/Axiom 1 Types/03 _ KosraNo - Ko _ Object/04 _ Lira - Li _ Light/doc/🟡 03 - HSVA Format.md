@@ -18,12 +18,16 @@ this will describe the Brightness or the vibrance of the Color
 Another way to understand this is "How not black this color is"
 
 
-|                                                               |                  |                  |                  |
-| ------------------------------------------------------------- | ---------------- | ---------------- | ---------------- |
-| ![[KosraNo_Lira.png\|50]]<br>![[KosraNo_Lira_taraka.png\|50]] | **(Slot : Hue)** | **(Slot : Sat)** | **(Slot : Vib)** |
-| "Color -<br>HSVA Format"<br>/Li - Taraka/                     |                  |                  |                  |
+|                                                               |                                                                                                                                        |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[KosraNo_Lira.png\|50]]<br>![[KosraNo_Lira_taraka.png\|50]] | ![[empty_128.png\|25]]<br>![[AstralicaSlots_Number-1.png\|50]]![[AstralicaSlots_Number-2.png\|50]]![[AstralicaSlots_Number-3.png\|50]] |
+| "Color -<br>HSVA Format"<br>/Li - Taraka/                     |                                                                                                                                        |
+slot 1 : Hue
+slot 2 : Saturation
+slot 3 : Vibrance
 
-here, the Saturation Slot and Vibrance Slot are simple numbers, but Hue is the interesting one. Which will be dicused further as below.
+
+here, the Saturation Slot and Vibrance Slot are simple numbers, but Hue is the interesting one. Which will be dicussed further as below.
 
 ---
 
@@ -35,9 +39,7 @@ and therefore does not exactly has a concrete name.
 This means that Astralica has different dialects for different species for different wavelengths.
 Of course these primary colors can be named after measurements, but it may not be language friendly.
 
----
-
-## Breaking the name
+### Breaking the name
 
 In our case, each primary color name has 3 syllables :
 
@@ -53,10 +55,7 @@ In our case, each primary color name has 3 syllables :
 >/Ra/ will be used when stating that the main Hue is Red
 >/Ha/ combined with other Primary Colors means "Red is mixed with the other Color 50/50"
 
-
----
-
-## Hue's Main Concept
+### Hue's Main Concept
 
 
 When stating a hue, we need to think of these things mainly:
@@ -117,7 +116,7 @@ let's draw a color line, with 2 major ticks (beginning and end) and 1 smaller se
 | --- | ----- | ---- | ----- | --- | ----- | ---- | ----- | --- |
 |     | 0.125 | 0.25 | 0.375 |     | 0.625 | 0.75 | 0.875 |     |
 
-Step 02 : Main Hue
+**Step 02 : Main Hue**
 Here we can say that H0 takes over the left side and H1 takes over the right side,
 
 |                         |     |       |      |       |       |       |      |       |     |
@@ -126,7 +125,7 @@ Here we can say that H0 takes over the left side and H1 takes over the right sid
 | ^                       |     | 0.125 | 0.25 | 0.375 |       | 0.625 | 0.75 | 0.875 |     |
 | Pronunciation Structure | X   | X     | X    | X     | X / Y | Y     | Y    | Y     | Y   |
 
-Step 03 : Level of Mixing
+**Step 03 : Level of Mixing**
 Now we can append the Mix Level of the other primary colors
 
 |                         |       |           |           |           |                       |           |           |           |       |
@@ -142,7 +141,7 @@ Now we can append the Mix Level of the other primary colors
 >then $X_p = /Nya/$
 >then $Y_p =/Ma/$
 >
->from here we can have the following :
+>from here we can derive the following :
 > $$X_0, X_1 , X_2 , X_3 , X_4 = /Nyo/ , /Ni/ , /Nyæ/ , /Nya/ , /Wa/ $$ 
 > $$Y_0, Y_1 , Y_2 , Y_3 , Y_4 = /Myo/ , /Mi/ , /Myæ/ , /Mya/ , /Ko/ $$
 > 
@@ -165,20 +164,21 @@ Here we will have our primary hue as $X$, $Y$, and $Z$
 The convention here is to have $X$ as 0 deg, $Y$ as 120 deg and $Z$ as 240 deg,
 and the angle starts on the right hand side, clockwise, just like back in trigonometry.
 
-![[ColorWheel_00-01.png|1024]]
+![[ColorWheel_00-setup.png|1024]]
 ### Step 02 : Primary Chunks
 
 For now we will list the 3 major chunks for $X$, $Y$, and $Z$
 so at least we know which part of the circle will be covered by which primary color.
 
 For every tick, this will contain the general color
-![[ColorWheel_01-01.png]]
+![[ColorWheel_01-major.png]]
 
 ### Step 03 : Mixing Magnitude
 
 now for every tick, we can append the Mixing Level of the other primary colors.
+here one way to interpret is is to think *"I have a dominant Color A, and then I mix it with some amount of Color B"*
 
-![[ColorWheel_02-01.png]]
+![[ColorWheel-02-gradient.png]]
 
 >[!warning]
 >These Hue names by themselves represents it's hue with Sat=1 and Vbr=1
@@ -204,8 +204,8 @@ The vertices and Edges can use the Dichromatic system and Trichromatic Edge syst
 **Triangle**
 The vertices and Edges can use the Dichromatic system and Trichromatic Edge system.
 
-Here we will be focusing on the triangle.
-Let's assume that all the Hues are $X$, $Y$, $Z$, and $W$. On a triangle, a hue will be absent, in this case, take W for example.
+Here we will be focusing on a single triangle.
+Let's assume that all the Hues are $X$, $Y$, $Z$, and $W$. On a triangle, a hue will be absent, in this case, take W for example. This means that we are left with $X,Y,Z$
 
 ![[ColorTet_01.png]]
 
@@ -231,14 +231,11 @@ the X-Kite has 4 edges :
 
 each of these edges can be cut into 4 equal segments, meaning each of these edges will have 3 tickmarks.​
 
-​
 for the edge X to XY4, all the tick marks are : $X ~,~ XY_1 ~,~ XY_2 ~,~ XY_3 ~,~ XY_4$
 in this direction, you can see that the primary color Y is increasing
 
 for the edge X to XZ4, all the tick marks are : $X ~,~ XZ_1 ~,~ XZ_2 ~,~ XZ_3 ~,~ XZ_4$
 in this direction, you can see that the primary color Z is increasing
-
-​
 
 we can use both of these edges to say that :
 
@@ -258,6 +255,10 @@ and with the other kites, a triangle is complete, we can also apply the same pri
 
 ![[ColorTet_06.png]]
 
+and here's what the entire triangle can look like :
+
+![[ColorTet_07.png]]
+
 >[!warning] Wait ... CenterPoint ? isn't that the Neutral Color with no Saturation
 >
 >Keep in mind, here we are dealing with 4 primary colors. To make sure that a color is fully saturated, we need to make sure that :
@@ -269,6 +270,9 @@ For humans, the entire spectrum is the triangle, when the triangle is missing a 
 For avians, the entire spectrum is the tetrahedron, when the tetrahedron is missing a vertex (one color channel is 0), it collapses into a triangle, at this point the MidPoint is the Blend of the 3 remaining colors, but it is still saturated.
 >
 In order for a color to be neutral, all color channels must all share the same value.
+
+>[!tip] this taste like Vector Addition
+>for every kite, every time when you move along an axis / direction / grid line, you increase / decrease the amount of the mixing hue. 
 
 ---
 
@@ -301,7 +305,7 @@ Now we can finally list what are the primary hues for different species :
 |                                                   | Blue          | /Gæhofu/  | /Gæ/      | /Gi/      | /Gæ/      | /Ga/      | /Ho/      |
 |                                                   | Ultraviolet   | /Qiziri/  | /Qi/      | /Qi/      | /Qæ/      | /Qa/      | /Zi/      |
 
->[!note] is $Mix_0$ or $Color_0$ a valid move ?
+>[!note] When is $Mix_0$ or $Color_0$ a valid move ?
 >if you want to describe a hue that it has no such said primary color but with a tendency to have that primary color, you can use $Color_0$ to hint "hey, perhaps this hue may contain that primary color, but for now it is 0"
 >>[!example] 
 >>if I were to say the color of the sky is now /KoRo/ ($BR_0$), it means that most of the time it is /Koqosa/ ("Blue"), and for now it contains "no Red" (/Ro/), but at some point, the sky may contain some extend of red, just not now

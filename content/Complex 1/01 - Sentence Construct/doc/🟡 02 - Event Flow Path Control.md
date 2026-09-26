@@ -22,8 +22,8 @@ here we use [[🟡 01 _ Kikuo - Kio _ Tree]]
 |                                                  |                      |                                      |                                                  |                     |                                      |                                                  |                     |
 | ------------------------------------------------ | -------------------- | ------------------------------------ | ------------------------------------------------ | ------------------- | ------------------------------------ | ------------------------------------------------ | ------------------- |
 | ![[Saeyanae.png\|50]]<br>![[Kio_0-Tree.png\|50]] | ![[KaxiRae.png\|50]] | ![[AstralicaSlots_Number-1.png\|50]] | ![[Saeyanae.png\|50]]<br>![[Kio_0-Tree.png\|50]] | ![[KaxiKo.png\|50]] | ![[AstralicaSlots_Number-2.png\|50]] | ![[Saeyanae.png\|50]]<br>![[Kio_0-Tree.png\|50]] | ![[KaxiRa.png\|50]] |
-/SækioRæ - (slot1) - SækioRo - (slot2) - SækioRa/
 
+/SækioRæ - (slot1) - SækioRo - (slot2) - SækioRa/
 where **slot 1** is the boolean expression
 and **slot 2** is where the other statements will go
 in other words : "if the things in slot 1 happens, then the things in slot 2 will happen"
@@ -186,7 +186,7 @@ SæjuNæ
 
 ---
 
-# Sæyanæ - Jusaihak - Klani > Sæju - Klani
+# Sæyanæ - Jusaihak - Klani > Sæju - Klani _ again
 
 basically this is an adjective to describe something to happen again
 

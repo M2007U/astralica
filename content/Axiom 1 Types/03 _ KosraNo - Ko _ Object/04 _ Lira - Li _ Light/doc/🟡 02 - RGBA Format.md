@@ -16,10 +16,9 @@ Then finally the Opacity Slot
 
 Every slot is then filled with a single digit  number, ranging from 0 to F
 
-|                                       |                    |                    |     |                    |                    |
-| ------------------------------------- | ------------------ | ------------------ | --- | ------------------ | ------------------ |
-| ![[KosraNo_Lira.png\|50]]             | **(Slot : Hue 1)** | **(Slot : Hue 2)** | ... | **(Slot : Hue N)** | **(Slot : Alpha)** |
-| ![[KosraNo_Lira_TaKlaKla.png\|50]]    | ^                  | ^                  | ^   | ^                  | ^                  |
-| "Color - RGBAFormat"<br>/Li - KlaZoi/ |                    |                    |     |                    |                    |
+|                                                                 |                    |                    |     |                    |                    |
+| --------------------------------------------------------------- | ------------------ | ------------------ | --- | ------------------ | ------------------ |
+| ![[KosraNo_Lira.png\|50]]<br>![[KosraNo_Lira_TaKlaKla.png\|50]] | **(Slot : Hue 1)** | **(Slot : Hue 2)** | ... | **(Slot : Hue N)** | **(Slot : Alpha)** |
+| "Color - RGBAFormat"<br>/Li - KlaZoi/                           |                    |                    |     |                    |                    |
 
 this means that every color in this format can be treated as a Hexadecimal number.
