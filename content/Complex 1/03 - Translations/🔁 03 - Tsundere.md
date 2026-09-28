@@ -1,6 +1,11 @@
 
 this is a long one, so this one will be the original sentence and translation taking turns, sometimes along with extra notes to explain what is going on
 
+📢 : English sentence
+✏️ : Proper Astralica
+✂️ : Casual Astralica
+🗒️ : notes and explanations
+
 ---
 
 📢 M-ME ?!!! N-N-NO WAY !!!
