@@ -121,7 +121,7 @@ while( pedestrainLight.color === "red" )
 ```
 
 and now we can convert this into Astralica
-here we use [[🟡 Jusaihak - Ju _ Cycle]]
+here we use [[🟡 01 _ Jusaihak - Ju _ Cycle]]
 
 ```
 SæjuRæ

@@ -109,7 +109,7 @@ Tæræf
 Tæraf
 Tæræf
 	Koix-oni-to
-	Ji-Hæpi
+	Krut-Qimara-WaNiYaLo
 Tæraf
 ```
 
@@ -140,7 +140,7 @@ Tæræf
 Tæraf
 Tæræf
 	ALPHA //the same as here
-	Ji-Hæpi
+	Krut-Qimara-WaNiYaLo
 Tæraf
 ```
 

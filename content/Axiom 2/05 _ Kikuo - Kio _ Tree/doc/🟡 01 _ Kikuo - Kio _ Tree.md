@@ -16,6 +16,9 @@ BodyParts will be using this mechanism
 >[!note] pronunciation derivation
 >Inspired by Japanese word "Ki" ("Tree") and the Chinese word "kuo" ("to spread")
 
+>[!tip]
+>Tree is the opposite of cycle : [[🟡 01 _ Jusaihak - Ju _ Cycle]]
+
 
 ---
 

@@ -88,6 +88,7 @@ Astralica was started since 2020, through the time of development, many people h
 | 2026 - Sep - 9  | David J. Peterson                       | inspiration              | [[🟡 02 - Demonstrative Objects - 2026.01]], "That" and "Those" might not be sufficient, some times we can see it, sometimes we cannot see it |
 | 2026 - Sep - 20 | JunHao                                  | tool                     | Quartz                                                                                                                                        |
 | 2026 - Sep - 21 | saberzero1                              | tutorial + debug         | Quartz publishing help                                                                                                                        |
+| 2026 - Sep -    | Nulli / Nulli Makes Bad Languages       | inspiration              | [[🟡 01 _ Fahaxen - Fa _ Function & Manipulate]] Operations, /Faji/, /Fazoi/                                                                       |
 
 
 

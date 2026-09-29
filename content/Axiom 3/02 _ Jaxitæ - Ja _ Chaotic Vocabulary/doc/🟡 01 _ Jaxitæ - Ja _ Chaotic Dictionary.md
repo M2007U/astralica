@@ -1,7 +1,9 @@
 
 ![[Jaxitae.png\|100]]![[empty_128.png|50]]![[c-42-j.png\|25]]![[v-870-a.png\|50]]![[c-41-x.png\|25]]![[v-160-i.png\|50]]![[c-54-t.png\|25]]![[v-660-ae.png\|50]]
 
-words that haven't been tackle yet falls under in this category.
+words that haven't been patternly or logically tackled yet falls under in this category.
+*(that is if a group of words don't have a radical or a mechanism to govern them yet)*
+
 words over here do not have glphys, ethomology
 and most importantly : it does not contain pattern and logic
 
