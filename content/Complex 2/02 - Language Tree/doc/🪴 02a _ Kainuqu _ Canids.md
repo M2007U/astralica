@@ -14,5 +14,5 @@ a Dialect mainly spoken by Canids Furries / Cyborgs
 
 
 >[!note] pronunciation inspiration
-"Quæn" + "Inu" + "kainikos" > "Kainuqu"
+> "Quæn" + "Inu" + "kainikos" > "Kainuqu"
 

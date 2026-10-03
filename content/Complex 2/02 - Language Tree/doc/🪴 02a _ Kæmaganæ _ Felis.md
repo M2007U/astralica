@@ -14,4 +14,4 @@ a Dialect main spoken by Felis (Cat) Furries / Cyborg / Faunus
 ![[cmc-naynchan-edited.png\|250]]
 
 >[!note] pronunciation inspiration
-"Kæt" + "Mau + "Næko" + "Gata" > "KæMaGaNæ"
+> "Kæt" + "Mau + "Næko" + "Gata" > "KæMaGaNæ"

@@ -12,7 +12,7 @@ The prefix looks a little scarry but here we can try to compress it with a short
 |                                                            |                                            |                                      |                         |                                      |                                      |                                      |
 | :--------------------------------------------------------: | :----------------------------------------: | :----------------------------------: | :---------------------: | :----------------------------------: | :----------------------------------: | :----------------------------------: |
 | ![[verb_modern - thin.png\|50]]![[KosraNi - thin.png\|50]] | ![[zoiga.png\|50]]<br>![[KaxiTae.png\|25]] | ![[AstralicaSlots_Number-1.png\|50]] | ![[opr_04-div.png\|50]] | ![[AstralicaSlots_Number-2.png\|50]] | ![[AstralicaSlots_Number-3.png\|50]] | ![[AstralicaSlots_Number-4.png\|50]] |
-|                         /Kruoiztæ/                         |                     <                      |                                      |          /Ru/           |                                      |                                      |                                      |
+|                         /Kruoiztæ/                         |                                            |                                      |          /Ru/           |                                      |                                      |                                      |
 
 Slot 1 : Facing Vector
 Slot 2 : Height Specification

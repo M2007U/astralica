@@ -11,7 +11,7 @@ even if the individual is structured like a tree, say us : Humans
 >[!note] Pronunciation Derivation
 >[[🟡 01 _ KosraNi - Koi - Living Beings]] : "it is for a living being"
 >[[🟡 01 _ Zoiga - Zoi _ Group]] : "this entity is a set or an element"
->[[🟡 01 _ Kaxi - Ka _ Space]] : "we are zomming in downwards"
+>[[🟡 01 _ Kaxi - Ka _ Space]] : "we are zoomming in downwards"
 >with these 3 root words, it can collectively mean "body"
 
 here we have 3 ways to select a body part :
@@ -72,6 +72,43 @@ when writing, we use /KaxiRo/, /KaxiTa/, /KaxiTæ/, /KaxiRa/, /KaxiRæ/ from [[�
 | **Lower Left**   | /TæRæ/  |     | Left Thigh     | Left Knee      | Left Calf        | Left Ankle   | Left Foot       |             |            |
 | **Lower**        | /TæRaæ/ |     | Thighs         | Knees          | Calves           | Ankles       | Feet            |             |            |
 | **Lower Right**  | /TæRa/  |     | Right Thigh    | Right Knee     | Right Calf       | Right Ankle  | Right Foot      |             |            |
+
+
+or if you prefer Directory Branch Structure :
+*(for simplicity, we all know No Ni Næ Na Lo Li Læ are numbers from 0 to 5, so here we are going to abbv it to 0123456)*
+
+Head *(Ro0)*
+ └── Neck *(Ro1)*
+      └── Sternal Manubrim *(Ro2)*
+           ├── Chest / Back *(Ro3)*
+           │    └── Stomach / Waist *(Ro4)*
+           │         └── Pelvis *(Ro5)*
+           │              ├── Left Thigh *(TæRæ0)*
+           │              │    └── Left Knee *(TæRæ1)*
+           │              │         └── Left Calf *(TæRæ2)*
+           │              │              └── Left Ankle *(TæRæ3)*
+           │              │                   └── Left Foot *(TæRæ4)*
+           │              └── Right Thigh *(TæRa0)*
+           │                   └── Right Knee *(TæRa1)*
+           │                        └── Right Calf *(TæRa2)*
+           │                             └── Right Ankle *(TæRa3)*
+           │                                  └── Right Foot *(TæRa4)*
+           ├── Left Clavicle *(TaRæ0)*
+           │    └── Left Shoulder *(TaRæ1)*
+           │         └── Left Upper Arm *(TaRæ2)*
+           │              └── Left Elbow *(TaRæ3)*
+           │                   └── Left Lower Arm *(TaRæ4)*
+           │                        └── Left Wrist *(TaRæ5)*
+           │                             └── Left Hand *(TaRæ6)*
+           └── Right Clavicle *(TaRa0)*
+                └── Right Shoulder *(TaRa1)*
+                     └── Right Upper Arm *(TaRa2)*
+                          └── Right Elbow *(TaRa3)*
+                               └── Right Lower Arm *(TaRa4)*
+                                    └── Right Wrist *(TaRa5)*
+                                         └── Right Hand *(TaRa6)*
+
+
 
 
 >[!example]
@@ -143,7 +180,7 @@ In this mechanism, we can think of 2 aspects :
 here's what every segment that uses Kiara mechanism looks roughly like :
 
 |                    |                                                                                          |
-| ------------------ | ---------------------------------------------------------------------------------------- |
+| ------------------ | :--------------------------------------------------------------------------------------: |
 | ![[Kiara.png\|50]] | ![[Request.png\|50]] or ![[Respond.png\|50]]<br>![[AstralicaSlots_Number-1.png\|50]]<br> |
 
 where slot 1 : what the organ / body parts dealing with
