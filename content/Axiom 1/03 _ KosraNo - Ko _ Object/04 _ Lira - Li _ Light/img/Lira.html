@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Hue Circle Prototype</title>
+<style>
+    html, body {
+        margin: 0;
+        width: 100%;
+        height: 100%;
+        background: #0b0b0b;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-family: sans-serif;
+    }
+
+    .ring {
+        fill: none;
+        stroke: white;
+        stroke-width: 3;
+    }
+
+    .tick {
+        stroke: white;
+        stroke-width: 2;
+    }
+
+    .tick.major {
+        stroke-width: 3;
+    }
+
+    .label {
+        fill: white;
+        font-size: 20px;
+        dominant-baseline: middle;
+        font-family: Calibri,Consolas;
+    }
+
+    .triangle-edge {
+        fill: none;
+        stroke-width: 4;
+    }
+</style>
+</head>
+<body>
+
+<svg width="600" height="600" viewBox="-50 -50 700 700">
+    <defs>
+        <linearGradient id="gradRG" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="red"/>
+            <stop offset="100%" stop-color="green"/>
+        </linearGradient>
+        <linearGradient id="gradGB" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="green"/>
+            <stop offset="100%" stop-color="blue"/>
+        </linearGradient>
+        <linearGradient id="gradBR" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="blue"/>
+            <stop offset="100%" stop-color="red"/>
+        </linearGradient>
+    </defs>
+
+    <circle class="ring" cx="300" cy="300" r="250"/>
+    <g id="ticks"></g>
+    <g id="triangle"></g>
+</svg>
+
+<script>
+const svgNS = "http://www.w3.org/2000/svg";
+const cx = 300, cy = 300;
+const R = 250;
+
+const tickInner = 250;
+const tickOuterMinor = 265;
+const tickOuterMajor = 285;
+
+// EDIT THESE FREELY
+const tickLabels = [
+    "Red", "", "", "",
+    "Yellow", "", "", "",
+    "Green", "", "", "",
+    "Cyan", "", "", "",
+    "Blue", "", "", "",
+    "Magenta", "", "", ""
+];
+
+const ticksGroup = document.getElementById("ticks");
+
+for (let deg = 0; deg < 360; deg += 15) {
+    const rad = deg * Math.PI / 180;
+    const index = deg / 15;
+    const isMajor = deg % 60 === 0;
+
+    const x1 = cx + tickInner * Math.cos(rad);
+    const y1 = cy - tickInner * Math.sin(rad);
+    const x2 = cx + (isMajor ? tickOuterMajor : tickOuterMinor) * Math.cos(rad);
+    const y2 = cy - (isMajor ? tickOuterMajor : tickOuterMinor) * Math.sin(rad);
+
+    const line = document.createElementNS(svgNS, "line");
+    line.setAttribute("x1", x1);
+    line.setAttribute("y1", y1);
+    line.setAttribute("x2", x2);
+    line.setAttribute("y2", y2);
+    line.setAttribute("class", "tick" + (isMajor ? " major" : ""));
+    ticksGroup.appendChild(line);
+
+    if (tickLabels[index]) {
+        const labelRadius = 305;
+        const lx = cx + labelRadius * Math.cos(rad);
+        const ly = cy - labelRadius * Math.sin(rad);
+
+        const text = document.createElementNS(svgNS, "text");
+        text.setAttribute("x", lx);
+        text.setAttribute("y", ly);
+        text.setAttribute("class", "label");
+
+        // Orientation logic
+        const flipped = deg > 90 && deg < 270;
+        const rotation = flipped ? -deg + 180 : -deg;
+
+        text.setAttribute(
+            "transform",
+            `rotate(${rotation} ${lx} ${ly})`
+        );
+
+        text.setAttribute(
+            "text-anchor",
+            flipped ? "end" : "start"
+        );
+
+        text.textContent = tickLabels[index];
+        ticksGroup.appendChild(text);
+    }
+}
+
+// Triangle
+function polar(angleDeg) {
+    const rad = angleDeg * Math.PI / 180;
+    return {
+        x: cx + R * Math.cos(rad),
+        y: cy - R * Math.sin(rad)
+    };
+}
+
+const vertices = {
+    red: polar(0),
+    green: polar(120),
+    blue: polar(240)
+};
+
+const edges = [
+    {
+        points: ["red", "yellow", "green"],
+        grads: ["gradRY", "gradYG"]
+    },
+    {
+        points: ["green", "cyan", "blue"],
+        grads: ["gradGC", "gradCB"]
+    },
+    {
+        points: ["blue", "magenta", "red"],
+        grads: ["gradBM", "gradMR"]
+    }
+];
+
+edges.forEach(edge => {
+    for (let i = 0; i < edge.grads.length; i++) {
+        const pStart = vertices[edge.points[i]];
+        const pEnd   = vertices[edge.points[i+1]];
+        const grad   = document.getElementById(edge.grads[i]);
+
+        // set gradient coordinates
+        grad.setAttribute("x1", pStart.x);
+        grad.setAttribute("y1", pStart.y);
+        grad.setAttribute("x2", pEnd.x);
+        grad.setAttribute("y2", pEnd.y);
+
+        // draw line
+        const line = document.createElementNS(svgNS, "line");
+        line.setAttribute("x1", pStart.x);
+        line.setAttribute("y1", pStart.y);
+        line.setAttribute("x2", pEnd.x);
+        line.setAttribute("y2", pEnd.y);
+        line.setAttribute("stroke", `url(#${edge.grads[i]})`);
+        line.setAttribute("class", "triangle-edge");
+
+        document.getElementById("triangle").appendChild(line);
+    }
+});
+
+</script>
+
+</body>
+</html>
