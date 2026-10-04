@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Astralica
+  pageTitle: Damaxiya
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: m2007u.github.io/astralica
+  baseUrl: m2007u.github.io/damaxiya
   ignorePatterns:
     - private
     - templates
