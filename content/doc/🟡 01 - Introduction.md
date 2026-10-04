@@ -3,6 +3,8 @@
 
 ![[Astralica-Logo-Dark.jpg|200]]
 
+![[v-870-a.png\|50]]![[c-31-s.png\|25]]![[empty_128.png\|12]]![[c-54-t.png\|25]]![[empty_128.png\|12]]![[c-83-r-EN.png\|25]]![[v-870-a.png\|50]]![[c-52-l.png\|25]]![[v-160-i.png\|50]]![[c-63-k.png\|25]]![[v-870-a.png\|50]]
+
 Astralica is a constructed language,
 aiming for Logic, Pattern, Science & Philosophy
 
@@ -34,10 +36,10 @@ here are a some examples
 >| back  | hou   | ushiro  |
 >
 >here Chinese Charracters at least convey some sense of direction the their glyphs but the pronunciation is a mess
->so far no natural language handle this nicely. see how it is fixed here : [[🟡 01 _ Kaxi - Ka _ Space]]
+>so far no natural language handle this nicely. To see how it is fixed, read here : [[🟡 01 _ Kaxi - Ka _ Space]]
 
 >[!example] Pronouns
->"I, you, we, they, he, she, it, him, her", these pronouns do not follow a certain pattern or rule, it feels random. see how is it fixed here : [[🟡 01 - Pronouns - 2026.01]]
+>"I, you, we, they, he, she, it, him, her", these pronouns do not follow a certain pattern or rule, it feels random. To see how is it fixed, read here : [[🟡 01 - Pronouns - 2026.01]]
 
 >[!example] Counting
 >for English, Chinese, Japanese, we have the following
@@ -50,7 +52,7 @@ here are a some examples
 >| four | si | yong/siji |
 >
 >and so on, these pronunciations once again do not follow any pattern
->see how is this fixed here : [[🟡 01 _ Klari - Kla _ Quantification]]
+>To see how is this fixed, read here : [[🟡 01 _ Klari - Kla _ Quantification]]
 
 
 
@@ -88,7 +90,7 @@ Astralica was started since 2020, through the time of development, many people h
 | 2026 - Sep - 9  | David J. Peterson                       | inspiration              | [[🟡 02 - Demonstrative Objects - 2026.01]], "That" and "Those" might not be sufficient, some times we can see it, sometimes we cannot see it |
 | 2026 - Sep - 20 | JunHao                                  | tool                     | Quartz                                                                                                                                        |
 | 2026 - Sep - 21 | saberzero1                              | tutorial + debug         | Quartz publishing help                                                                                                                        |
-| 2026 - Sep -    | Nulli / Nulli Makes Bad Languages       | inspiration              | [[🟡 01 _ Fahaxen - Fa _ Function & Manipulate]] Operations, /Faji/, /Fazoi/                                                                       |
+| 2026 - Sep -    | Nulli / Nulli Makes Bad Languages       | inspiration              | [[🟡 00 _ Fahaxen - Fa _ Function & Manipulate]] Operations, /Faji/, /Fazoi/                                                                       |
 
 
 

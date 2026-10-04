@@ -5,7 +5,7 @@ verb : /krut-aramæin/
 1. raining
 2. watering , like watering the plants
 
-[[🟡 01 _ Fahaxen - Fa _ Function & Manipulate]] Manipulation :
+[[🟡 00 _ Fahaxen - Fa _ Function & Manipulate]] Manipulation :
 
 | Fahaxen | meaning   |
 | ------- | --------- |
