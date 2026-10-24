@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"ee533de5d17fc9a8","type":"file","file":"Kontent/Vol 2 - Fundamental/ModificationElements/Circle4.png","x":1342,"y":7539,"width":81,"height":81},
+		{"id":"46bc5f8b4c953361","type":"file","file":"Kontent/Vol 2 - Fundamental/06_Saeyanae_Sae/Event_Aria_Square.png","x":1343,"y":7459,"width":80,"height":80},
+		{"id":"90561b5e16e92aed","type":"text","text":"/Saeria-Aera/ : Souce","x":1461,"y":7499,"width":250,"height":80},
+		{"id":"250ac1a156d6cc24","type":"text","text":"SUBJECT","x":1741,"y":7499,"width":250,"height":80},
+		{"id":"850b9fbea529ebfc","type":"file","file":"Kontent/Vol 2 - Fundamental/06_Saeyanae_Sae/Saeyanae.png","x":200,"y":7660,"width":80,"height":80},
+		{"id":"b2c8db96e9ef88f6","type":"file","file":"Kontent/Vol 2 - Fundamental/ModificationElements/Circle2.png","x":1341,"y":7739,"width":81,"height":81},
+		{"id":"26c957d86caa190c","type":"file","file":"Kontent/Vol 2 - Fundamental/06_Saeyanae_Sae/Event_Aria_Square.png","x":1343,"y":7859,"width":80,"height":80},
+		{"id":"c0c49b64abc78580","type":"file","file":"Kontent/Vol 2 - Fundamental/ModificationElements/Circle0.png","x":1343,"y":7939,"width":81,"height":81},
+		{"id":"82b4853924d438e2","type":"file","file":"Kontent/Vol 2 - Fundamental/06_Saeyanae_Sae/Event_Aria_Square.png","x":1342,"y":7659,"width":80,"height":80},
+		{"id":"2d2f2d8814d681b3","type":"text","text":"/Saeria-Aeri/ : Medium","x":1461,"y":7699,"width":250,"height":80},
+		{"id":"26328667e01c2697","type":"text","text":"/Saeria-Aeru/ : Receptor","x":1461,"y":7899,"width":250,"height":80},
+		{"id":"9198817d1c42e059","type":"text","text":"VERB/ADJ","x":1741,"y":7699,"width":250,"height":80},
+		{"id":"f78a234a71c413a8","type":"text","text":"OBJ","x":1741,"y":7899,"width":250,"height":80},
+		{"id":"3e0f864e7e4367f1","type":"file","file":"Kontent/Vol 2 - Fundamental/06_Saeyanae_Sae/Event_Aria_Long.png","x":741,"y":7620,"width":80,"height":160},
+		{"id":"515c6e7b6534e2c3","type":"text","text":"/Saeyanae/ -> /Sae/ : event","x":320,"y":7660,"width":250,"height":80},
+		{"id":"0142f28d8cb0ad85","type":"text","text":"/Saeyanae-Ara/ -> /Saeria/ : ???","x":841,"y":7660,"width":250,"height":80},
+		{"id":"83ec0435410bca18","type":"text","text":"# Fundamental Type","x":-640,"y":7639,"width":637,"height":120,"color":"2"}
+	],
+	"edges":[
+		{"id":"2f8d1f7f68a83643","fromNode":"83ec0435410bca18","fromSide":"right","toNode":"850b9fbea529ebfc","toSide":"left"},
+		{"id":"ba026e99e1e05288","fromNode":"515c6e7b6534e2c3","fromSide":"right","toNode":"3e0f864e7e4367f1","toSide":"left"},
+		{"id":"9121510d2a7b0feb","fromNode":"0142f28d8cb0ad85","fromSide":"right","toNode":"46bc5f8b4c953361","toSide":"left"},
+		{"id":"9503b6f0ac5b0c3b","fromNode":"0142f28d8cb0ad85","fromSide":"right","toNode":"82b4853924d438e2","toSide":"left"},
+		{"id":"157ad9646fb0c22c","fromNode":"0142f28d8cb0ad85","fromSide":"right","toNode":"26c957d86caa190c","toSide":"left"}
+	]
+}

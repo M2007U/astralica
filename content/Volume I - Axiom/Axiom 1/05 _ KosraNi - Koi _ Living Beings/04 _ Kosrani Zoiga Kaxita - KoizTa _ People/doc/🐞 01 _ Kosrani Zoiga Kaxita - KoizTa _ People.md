@@ -1,0 +1,4 @@
+
+- family
+- teammates
+- hiearchy
